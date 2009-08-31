@@ -1,0 +1,5 @@
+FLAVOR="loram"
+SHORT_DESC="SliTaz loram system (all in RAM)"
+ROOTFS_SIZE="35.1M"
+INITRAMFS_SIZE="31.0M"
+ISO_SIZE="33.6M"

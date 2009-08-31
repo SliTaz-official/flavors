@@ -1,0 +1,5 @@
+FLAVOR="loram-cdrom-sqfs"
+SHORT_DESC="SliTaz loram system (/usr on cdrom)"
+ROOTFS_SIZE="6.3M"
+INITRAMFS_SIZE="2.8M"
+ISO_SIZE="33.6M"

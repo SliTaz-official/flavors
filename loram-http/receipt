@@ -1,0 +1,5 @@
+FLAVOR="loram-http"
+SHORT_DESC="SliTaz loram system (/usr on web)"
+ROOTFS_SIZE="6.5M"
+INITRAMFS_SIZE="2.9M"
+ISO_SIZE="5.4M"
