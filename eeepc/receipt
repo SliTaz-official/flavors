@@ -1,0 +1,5 @@
+FLAVOR="eeepc"
+SHORT_DESC="SliTaz eeepc system"
+ROOTFS_SIZE="97.8M"
+INITRAMFS_SIZE="26.0M"
+ISO_SIZE="28.6M"
