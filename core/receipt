@@ -1,0 +1,5 @@
+FLAVOR="core"
+SHORT_DESC="SliTaz core system"
+ROOTFS_SIZE="97.4M"
+INITRAMFS_SIZE="26.1M"
+ISO_SIZE="28.6M"

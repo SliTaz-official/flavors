@@ -1,0 +1,5 @@
+FLAVOR="justX"
+SHORT_DESC="SliTaz with a minimal X environnement"
+ROOTFS_SIZE="47.9M"
+INITRAMFS_SIZE="12.2M"
+ISO_SIZE="14.7M"
