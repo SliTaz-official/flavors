@@ -1,5 +1,11 @@
+# SliTaz flavor receipt.
+
 FLAVOR="base"
 SHORT_DESC="Minimal set of packages to boot"
+VERSION="2.0"
+MAINTAINER="pankso@slitaz.org"
+
+FRUGAL_RAM="32M"
 ROOTFS_SIZE="13.9M"
 INITRAMFS_SIZE="3.9M"
 ISO_SIZE="6.5M"

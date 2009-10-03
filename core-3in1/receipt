@@ -1,9 +1,10 @@
 # SliTaz flavor receipt.
 
-FLAVOR="core"
-SHORT_DESC="SliTaz core system"
+FLAVOR="core-3in1"
+SHORT_DESC="SliTaz core system with justX and base alternatives"
 VERSION="2.0"
 MAINTAINER="pankso@slitaz.org"
+ROOTFS_SELECTION="160M core 96M justX 32M base"
 
 FRUGAL_RAM="160M"
 ROOTFS_SIZE="97.4M"

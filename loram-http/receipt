@@ -1,5 +1,11 @@
+# SliTaz flavor receipt.
+
 FLAVOR="loram-http"
 SHORT_DESC="SliTaz loram system (/usr on web)"
+VERSION="2.0"
+MAINTAINER="pascal.bellard@slitaz.org"
+
+FRUGAL_RAM="32M"
 ROOTFS_SIZE="6.5M"
 INITRAMFS_SIZE="2.9M"
 ISO_SIZE="5.4M"
