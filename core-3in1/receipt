@@ -2,11 +2,11 @@
 
 FLAVOR="core-3in1"
 SHORT_DESC="SliTaz core system with justX and base alternatives"
-VERSION="2.0"
+VERSION="20091104"
 MAINTAINER="pankso@slitaz.org"
 ROOTFS_SELECTION="160M core 96M justX 32M base"
 
 FRUGAL_RAM="160M"
-ROOTFS_SIZE="97.4M"
-INITRAMFS_SIZE="26.1M"
-ISO_SIZE="28.6M"
+ROOTFS_SIZE="104.6M"
+INITRAMFS_SIZE="28.7M"
+ISO_SIZE="31.5M"

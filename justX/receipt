@@ -2,10 +2,7 @@
 
 FLAVOR="justX"
 SHORT_DESC="SliTaz with a minimal X environnement"
-VERSION="2.0"
+VERSION="20091104"
 MAINTAINER="pankso@slitaz.org"
 
 FRUGAL_RAM="96M"
-ROOTFS_SIZE="47.9M"
-INITRAMFS_SIZE="12.2M"
-ISO_SIZE="14.7M"

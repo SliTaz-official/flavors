@@ -1,5 +1,6 @@
 busybox
 bzlib
+depmod
 dialog
 dropbear
 e2fsprogs
@@ -31,4 +32,6 @@ tazpkg
 tazusb
 tazwok
 udev
+util-linux-ng-blkid
+util-linux-ng-uuid
 zlib
