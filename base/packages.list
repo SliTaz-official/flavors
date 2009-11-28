@@ -12,7 +12,6 @@ isapnptools
 kbd-busybox
 libcap
 libcomerr
-libuuid
 linux
 lzlib
 lzma

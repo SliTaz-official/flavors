@@ -82,7 +82,6 @@ libpng
 libsigc++
 libssl
 libvorbis
-libscb
 libxml2
 linux
 linux-acpi
@@ -98,7 +97,6 @@ lxpanel
 lxtask
 lzlib
 lzma
-madwifi
 menu-cache
 mhwaveedit
 mtpaint
@@ -125,7 +123,6 @@ popt
 ppp
 rp-pppoe
 rsync
-rt2860sta
 shared-mime-info
 slim
 slitaz-base-files
