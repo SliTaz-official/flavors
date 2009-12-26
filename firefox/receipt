@@ -1,0 +1,11 @@
+# SliTaz flavor receipt.
+
+FLAVOR="firefox"
+SHORT_DESC="Small desktop Mozilla Firefox."
+VERSION="20091225"
+MAINTAINER="pankso@slitaz.org"
+
+FRUGAL_RAM="160M"
+ROOTFS_SIZE="92.0M"
+INITRAMFS_SIZE="25.3M"
+ISO_SIZE="29.0M"
