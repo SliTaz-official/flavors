@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+
+<!-- Applications -->
+<menu id="applications-menu" label="Applications">
+  <item label="Clex File Manager">
+    <action name="Execute"><command>terminal -e clex</command></action>
+  </item>
+  <item label="XTerm Terminal">
+    <action name="Execute"><command>xterm</command></action>
+  </item>
+  <item label="Nano Text Editor">
+    <action name="Execute"><command>terminal -e nano</command></action>
+  </item>
+  <item label="Packages Manager">
+    <action name="Execute"><command>terminal -e "tazpkg shell"</command></action>
+  </item>
+  <item label="SQLite SQL Engine">
+    <action name="Execute"><command>terminal -e sqlite3</command></action>
+  </item>
+  <item label="Htop Processes Viewer">
+    <action name="Execute"><command>terminal -e htop</command></action>
+  </item>
+  <item label="Local ports scan">
+    <action name="Execute"><command>terminal -hold -e "pscan localhost"</command></action>
+  </item>
+  <item label="Show Boot Log">
+    <action name="Execute"><command>terminal -hold -e bootlog</command></action>
+  </item>
+  <item label="SliTaz Installer">
+    <action name="Execute"><command>terminal -e "su -c slitaz-installer"</command></action>
+  </item>
+</menu>
+
+<!-- Openbox configuration -->
+<menu id="openbox-menu" label="Openbox">
+  <item label="Openbox Config">
+    <command>editor ~/.config/openbox/rc.xml</command>
+  </item>
+  <item label="Autostart Script">
+    <action name="Execute">
+      <command>editor ~/.config/openbox/autostart.sh</command>
+    </action>
+  </item>
+  <item label="Openbox Menu">
+    <action name="Execute">
+      <command>editor ~/.config/openbox/menu.xml</command>
+    </action>
+  </item>
+  <separator />
+  <item label="Reconfigure">
+    <action name="Reconfigure" />
+  </item>
+  <item label="Restart">
+    <action name="Restart" />
+  </item>
+</menu>
+
+<menu id="root-menu" label="Openbox 3">
+  <!-- <separator label="SliTaz Openbox" /> -->
+  <menu id="applications-menu" />
+  <menu id="client-list-menu" />
+  <menu id="openbox-menu" />
+  <separator />
+  <item label="Logout">
+    <action name="Execute"><command>openbox --exit</command></action>
+  </item>
+  <item label="Reboot">
+    <action name="Execute"><command>reboot</command></action>
+  </item>
+</menu>
+
+</openbox_menu>

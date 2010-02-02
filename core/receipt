@@ -1,11 +1,11 @@
 # SliTaz flavor receipt.
 
 FLAVOR="core"
-SHORT_DESC="SliTaz core system"
-VERSION="20091104"
+SHORT_DESC="Core system with a full featured desktop."
+VERSION="20100202"
 MAINTAINER="pankso@slitaz.org"
 
-FRUGAL_RAM="160M"
-ROOTFS_SIZE="104.6M"
-INITRAMFS_SIZE="28.7M"
-ISO_SIZE="31.5M"
+FRUGAL_RAM="128M"
+ROOTFS_SIZE="86.0M"
+INITRAMFS_SIZE="24.0M"
+ISO_SIZE="26.0M"
