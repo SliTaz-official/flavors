@@ -49,6 +49,7 @@ lzlib
 lzma
 nano
 ncurses
+ncursesw
 obconf
 openbox
 pango
