@@ -2,10 +2,10 @@
 
 FLAVOR="loram-cdrom-sqfs"
 SHORT_DESC="SliTaz loram system (/usr on cdrom)"
-VERSION="20091104"
+VERSION="20100202"
 MAINTAINER="pascal.bellard@slitaz.org"
 
 FRUGAL_RAM="32M"
-ROOTFS_SIZE="7.3M"
-INITRAMFS_SIZE="3.0M"
-ISO_SIZE="41.0M"
+ROOTFS_SIZE="7.7M"
+INITRAMFS_SIZE="3.3M"
+ISO_SIZE="30.0M"

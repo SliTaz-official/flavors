@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Documentation
+Exec=browser file:///usr/share/doc/slitaz/index.html
+Icon=slitaz-doc.png
+Type=Application

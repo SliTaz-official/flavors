@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GNU General Public License
+Name[pt]=Licença Pública Geral GNU
+Exec=browser file:///usr/share/licenses/gpl.txt
+Icon=text-x-generic
+Type=Application
+Categories=Documentation;
