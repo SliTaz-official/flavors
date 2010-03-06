@@ -64,7 +64,7 @@ Plugin {
             id=xterm.desktop
         }
         Button {
-            id=netsurf.desktop
+            id=midori.desktop
         }
     }
 }

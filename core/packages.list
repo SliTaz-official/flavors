@@ -129,8 +129,6 @@ galculator
 ntfs-3g
 ntfsprogs
 web-applications
-libgsf
-netsurf
 viewnior
 sudoku-savant
 desktop-file-utils
@@ -148,3 +146,5 @@ gparted
 beaver
 lua
 epdfview
+libwebkit
+midori
