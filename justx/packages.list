@@ -62,7 +62,6 @@ tazwok
 tiff
 ttf-dejavu
 udev
-xcb-util
 xorg-base-fonts
 xorg-libfontenc
 xorg-libICE
