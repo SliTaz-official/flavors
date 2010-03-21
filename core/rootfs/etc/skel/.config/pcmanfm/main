@@ -12,4 +12,4 @@ maximized=0
 show_desktop=1
 show_wallpaper=1
 wallpaper=/usr/share/images/slitaz-background.jpg
-show_wm_menu=0
+show_wm_menu=1

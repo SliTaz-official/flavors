@@ -1,7 +1,7 @@
 atk
 busybox
 bzlib
-cairo
+cairo-xcb
 cdrkit
 clearlooks
 conspy
@@ -146,5 +146,8 @@ gparted
 beaver
 lua
 epdfview
+915resolution
+libunique
 libwebkit
 midori
+gettext-base
