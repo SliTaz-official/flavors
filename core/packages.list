@@ -15,7 +15,6 @@ fontconfig
 freetype
 gamin
 gcc-lib-base
-get-wifi-firmware
 glib
 glibc-base
 gpxe
