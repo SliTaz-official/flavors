@@ -1,6 +1,6 @@
 busybox
 bzlib
-cairo
+cairo-xcb
 cdrkit
 conspy
 dbus
@@ -92,6 +92,6 @@ xorg-xauth
 xorg-xf86-input-keyboard
 xorg-xf86-input-mouse
 xorg-xf86-video-vesa
-xorg-xrandr
+xorg-xsetroot
 xterm
 zlib

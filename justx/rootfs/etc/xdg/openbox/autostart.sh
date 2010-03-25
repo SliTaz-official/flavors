@@ -23,13 +23,16 @@
 #xcompmgr -c -r 10 &
 
 # Set a background image using hsetroot (depends on imlib2).
-hsetroot -fill /usr/share/images/slitaz-background.jpg &
+#hsetroot -fill /usr/share/images/slitaz-background.jpg &
 
 # Start Tint2 desktop panel
-tint2 &
+#tint2 &
 
 # Background color with xsetroot.
-#xsetroot -solid "#222222" &
+xsetroot -solid "#222222" &
+
+# Start a Xterm
+xterm &
 
 # Wbar icons panel.
 #(sleep 2 && wbar -above-desk -pos top center -jumpf 0 -zoomf 1.5 -bpress -balfa 0) &

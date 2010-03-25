@@ -112,7 +112,6 @@ xorg-libXtst
 xorg-rgb
 xorg-xauth
 xorg-xcompmgr
-xorg-xrandr
 xterm
 zlib
 libcrypto
