@@ -1,0 +1,11 @@
+# SliTaz flavor receipt.
+
+FLAVOR="xvesa"
+SHORT_DESC="Core system with a full featured desktop (use tinyX server)."
+VERSION="20100326"
+MAINTAINER="pankso@slitaz.org"
+
+FRUGAL_RAM="128M"
+ROOTFS_SIZE="86.0M"
+INITRAMFS_SIZE="24.0M"
+ISO_SIZE="26.0M"
