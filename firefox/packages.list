@@ -8,7 +8,6 @@ bzlib
 cairo
 cdrkit
 clearlooks
-conspy
 dbus
 dbus-glib
 depmod

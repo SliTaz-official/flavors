@@ -2,7 +2,6 @@ busybox
 bzlib
 cairo
 cdrkit
-conspy
 dbus
 dbus-glib
 dialog

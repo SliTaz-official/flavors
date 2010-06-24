@@ -4,7 +4,6 @@ bzlib
 cairo
 cdrkit
 clearlooks
-conspy
 cromfs-or-squashfs
 dbus
 dbus-glib
