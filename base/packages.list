@@ -2,6 +2,7 @@ busybox
 bzlib
 dialog
 dropbear
+e2fsprogs
 gcc-lib-base
 glibc-base
 gpxe
