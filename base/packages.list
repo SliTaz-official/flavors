@@ -2,7 +2,6 @@ busybox
 bzlib
 dialog
 dropbear
-e2fsprogs
 gcc-lib-base
 glibc-base
 gpxe
@@ -10,12 +9,9 @@ grub
 isapnptools
 kbd-busybox
 libcap
-libcomerr
 linux
 lzlib
 lzma
-ncurses
-pciutils
 pcmciautils
 ppp
 rp-pppoe
