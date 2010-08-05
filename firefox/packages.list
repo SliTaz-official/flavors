@@ -151,8 +151,7 @@ xorg-server
 xorg-setxkbmap
 xorg-xauth
 xorg-xcompmgr
-xorg-xf86-input-keyboard
-xorg-xf86-input-mouse
+xorg-xf86-input-evdev
 xorg-xf86-video-vesa
 xorg-xkbcomp
 xorg-xkeyboard-config

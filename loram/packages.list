@@ -140,8 +140,7 @@ viewnior
 sudoku-savant
 desktop-file-utils
 xorg-server
-xorg-xf86-input-mouse
-xorg-xf86-input-keyboard
+xorg-xf86-input-evdev
 xorg-xf86-video-vesa
 xorg-setxkbmap
 mhwaveedit

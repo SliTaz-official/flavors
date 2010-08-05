@@ -88,8 +88,7 @@ xorg-rgb
 xorg-server
 xorg-setxkbmap
 xorg-xauth
-xorg-xf86-input-keyboard
-xorg-xf86-input-mouse
+xorg-xf86-input-evdev
 xorg-xf86-video-vesa
 xorg-xsetroot
 xterm
