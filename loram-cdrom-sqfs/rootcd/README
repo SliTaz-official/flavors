@@ -7,16 +7,15 @@ Français
 Ce cdrom est un système autonome Live, il vous suffit de démarrer sur le CD
 (booter) et SliTaz se lance en mémoire vive (RAM), sans toucher à votre système
 actuel. SliTaz peut fonctionner des mois entiers sans redémarrer, le système
-peut fonctionner dans 144 Mb de mémoire vive et sur des machines sans disque dur.
-Il aura toujours besion du cdrom avec de 24 Mb à 144 Mb de mémoire vive.
+peut fonctionner dans 24 Mb de mémoire vive et sur des machines sans disque dur.
 Mais SliTaz est aussi pleinement installable sur un disque dur et largement
 extensible via le gestionnaire de paquets et la compilation de nouvelles
 applications depuis les sources.
 
 Une fois le système lancé, vous disposez d'un shell ash, et vous pouvez retirer
-le cdrom, car SliTaz utilise la mémoire vive (RAM) de la machine. Le système
-fournit plus de 200 commandes Linux, navigateur web, client de chat IRC,
-support IDE, eth0, usb, le système X et bien plus {...}.
+le cdrom si vous disposez d'au moins 144 Mb, car SliTaz utilise la mémoire vive
+(RAM) de la machine. Le système fournit plus de 200 commandes Linux, navigateur
+web, client de chat IRC, support IDE, eth0, usb, le système X et bien plus {...}.
 
 SliTaz peut être utilisé pour réparer, et tester un disque dur avec fdisk,
 hdparm, ou les outils e2fsprogs. Le système et aussi pleinement installable,

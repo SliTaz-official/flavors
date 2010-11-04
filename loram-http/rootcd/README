@@ -7,16 +7,14 @@ Français
 Ce cdrom est un système autonome Live, il vous suffit de démarrer sur le CD
 (booter) et SliTaz se lance en mémoire vive (RAM), sans toucher à votre système
 actuel. SliTaz peut fonctionner des mois entiers sans redémarrer, le système
-peut fonctionner dans 144 Mb de mémoire vive et sur des machines sans disque dur.
-Il aura toujours besion d'Internet avec de 24 Mb à 144 Mb de mémoire vive.
+peut fonctionner dans 24 Mb de mémoire vive et sur des machines sans disque dur.
 Mais SliTaz est aussi pleinement installable sur un disque dur et largement
 extensible via le gestionnaire de paquets et la compilation de nouvelles
 applications depuis les sources.
 
-Une fois le système lancé, vous disposez d'un shell ash, et vous pouvez retirer
-le cdrom, car SliTaz utilise la mémoire vive (RAM) de la machine. Le système
-fournit plus de 200 commandes Linux, navigateur web, client de chat IRC,
-support IDE, eth0, usb, le système X et bien plus {...}.
+Une fois le système lancé, vous disposez d'un shell ash.  Le système fournit
+plus de 200 commandes Linux, navigateur web, client de chat IRC, support IDE,
+eth0, usb, le système X et bien plus {...}.
 
 SliTaz peut être utilisé pour réparer, et tester un disque dur avec fdisk,
 hdparm, ou les outils e2fsprogs. Le système et aussi pleinement installable,
@@ -36,7 +34,7 @@ English
 SliTaz is a micro GNU/Linux distro using BusyBox, a Linux kernel, and GNU
 free software. SliTaz also use goodies from the Debian project. The goal of
 SliTaz is to have a GNU/Linux distro working all in memory (RAM) with 144 MB and
-more. It needs the Internet with 24 MB only. SliTaz boot with Syslinux, provide
+more. It needs the CD-ROM with 24 MB only. SliTaz boot with Syslinux, provide
 more than 200 Linux commands, SSH server/client powered by Dropbear, rescue
 tools, X system, and much more {...}.
 
