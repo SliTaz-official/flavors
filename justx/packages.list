@@ -22,6 +22,7 @@ kbd-busybox
 libcap
 libcomerr
 libcrypto
+libgcrypt
 libgio
 libpng
 libxml2
