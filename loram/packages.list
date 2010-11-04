@@ -128,7 +128,7 @@ mtpaint
 libnotify
 transmission
 alsa-lib
-alsaplayer
+deadbeef
 alsa-utils
 asunder
 galculator
@@ -145,7 +145,6 @@ xorg-xf86-input-evdev
 xorg-xf86-video-vesa
 xorg-setxkbmap
 mhwaveedit
-osmo
 isomaster
 gcolor2
 lostirc
