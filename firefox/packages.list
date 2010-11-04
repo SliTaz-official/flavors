@@ -69,6 +69,7 @@ lzma
 menu-cache
 mesa
 nano
+nanochess
 ncurses
 ntfs-3g
 ntfsprogs
@@ -96,7 +97,7 @@ slitaz-tools
 slitaz-tools-boxes
 sqlite
 startup-notification
-sudoku-savant
+sudoku
 sysfsutils
 syslinux
 syslinux-extra

@@ -50,6 +50,7 @@ lxtask
 lzlib
 lzma
 nano
+nanochess
 ncurses
 ncursesw
 obconf
@@ -137,7 +138,7 @@ web-applications
 libgsf
 netsurf
 viewnior
-sudoku-savant
+sudoku
 desktop-file-utils
 xorg-server
 xorg-xf86-input-evdev
