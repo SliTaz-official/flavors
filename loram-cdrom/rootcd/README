@@ -34,13 +34,12 @@ English
 -------
 SliTaz is a micro GNU/Linux distro using BusyBox, a Linux kernel, and GNU
 free software. SliTaz also use goodies from the Debian project. The goal of
-SliTaz is to have a GNU/Linux distro working all in memory (RAM) with 144 MB and
-more. It needs the CD-ROM with 24 MB only. SliTaz boot with Syslinux, provide
-more than 200 Linux commands, SSH server/client powered by Dropbear, rescue
-tools, X system, and much more {...}.
+SliTaz is to have a GNU/Linux distro working entirely in memory (RAM). SliTaz 
+boots with Syslinux, provides more than 200 Linux commands, a SSH server/client 
+powered by Dropbear, rescue tools, and much more {...}.
 
-On the system you will find documentation in: /usr/share/doc, and the full
-GPL license in: /usr/share/licenses.
+On the system you will find documentation in /usr/share/doc, and the full
+GPL license in /usr/share/licenses.
 
 
 LICENSE
