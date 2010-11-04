@@ -18,8 +18,8 @@ fournit plus de 200 commandes Linux, support IDE, eth0, usb, le système X et
 bien plus {...}.
 
 SliTaz peut être utilisé pour réparer, et tester un disque dur avec fdisk,
-hdparm, ou les outils e2fsprogs. Le système et aussi pleinement installable,
-vous pouvez jetter un coup d'oeil au document install-guide.html.
+hdparm, ou les outils e2fsprogs. Le système et aussi pleinement installable
+avec l'outil slitaz-installer.
 
 Slitaz GNU/Linux est distribué sans aucune garantie et publié car
 potentiellement utile. SliTaz n'as aucune prétention, nous ne sommes que des
