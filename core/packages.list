@@ -18,7 +18,7 @@ get-wifi-firmware
 glib
 glibc-base
 gpxe
-grub
+grub4dos-linux
 gtk+
 gtkdialog
 hal

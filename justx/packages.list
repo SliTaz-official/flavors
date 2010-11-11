@@ -14,7 +14,7 @@ gcc-lib-base
 glib
 glibc-base
 gpxe
-grub
+grub4dos-linux
 hal
 isapnptools
 jpeg

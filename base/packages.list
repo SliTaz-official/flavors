@@ -6,7 +6,7 @@ e2fsprogs
 gcc-lib-base
 glibc-base
 gpxe
-grub
+grub4dos-linux
 isapnptools
 kbd-busybox
 libcap
