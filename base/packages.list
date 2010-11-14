@@ -28,3 +28,4 @@ tazusb
 tazwok
 udev
 zlib
+ncurses-common
