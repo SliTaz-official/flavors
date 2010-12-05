@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Create a LiveCD
+Name[fr]=Créer un LiveCD
+Exec=subox tazlitobox
+Icon=tazlito
+Type=Application
+Categories=System;

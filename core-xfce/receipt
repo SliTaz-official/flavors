@@ -1,0 +1,11 @@
+# SliTaz flavor receipt.
+
+FLAVOR="core-xfce"
+SHORT_DESC="SliTaz Core with XFCE Desktop, Firefox and Mercurial"
+VERSION="20100512"
+MAINTAINER="miltonsj@gmail.com"
+
+FRUGAL_RAM="320M"
+ROOTFS_SIZE="252.8M"
+INITRAMFS_SIZE="54.3M"
+ISO_SIZE="57.1M"
