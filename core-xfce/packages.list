@@ -11,7 +11,7 @@ busybox-pam
 bzlib
 cairo
 cairomm
-cairo
+cairo-xcb
 cdparanoia-III
 cdrkit
 clearlooks
@@ -38,7 +38,7 @@ gcolor2
 GConf
 gdbm
 get-flash-plugin
-gettext
+gettext-base
 get-wifi-firmware
 glib
 glibc-base
@@ -91,7 +91,7 @@ libtasn1
 libtool
 libunique
 libusb
-libusb
+libusb-compat
 libvorbis
 libwebkit
 libwnck
@@ -143,7 +143,7 @@ pcmanfm
 pcmciautils
 pcre
 perl
-perl-xml-simple
+perl-uri
 perl-xml-parser
 pixman
 PolicyKit0
@@ -187,8 +187,8 @@ transset-df
 ttf-dejavu
 udev
 util-linux-ng-blkid
-util-linux-ng-cfdisk
-util-linux-ng-sfdisk
+util-linux-ng-getopt
+util-linux-ng-uuid
 viewnior
 web-applications
 wireless_tools
@@ -211,6 +211,7 @@ xorg-base-fonts
 xorg-iceauth
 xorg-libfontenc
 xorg-libICE
+xorg-libpciaccess
 xorg-libSM
 xorg-libX11
 xorg-libXau
@@ -227,12 +228,14 @@ xorg-libXi
 xorg-libXinerama
 xorg-libxkbfile
 xorg-libXmu
+xorg-libXp
 xorg-libXpm
 xorg-libXrandr
 xorg-libXrender
 xorg-libXss
 xorg-libXt
 xorg-libXtst
+xorg-libXxf86vm
 xorg-rgb
 xorg-server
 xorg-setxkbmap
