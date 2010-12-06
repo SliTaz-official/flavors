@@ -43,6 +43,7 @@ libcap
 libcomerr
 libcrypto
 libdrm
+libgcrypt
 libgio
 libglade
 libmad
