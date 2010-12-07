@@ -11,7 +11,6 @@ busybox-pam
 bzlib
 cairo
 cairomm
-cairo-xcb
 cdparanoia-III
 cdrkit
 clearlooks
