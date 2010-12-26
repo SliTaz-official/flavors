@@ -1,0 +1,13 @@
+busybox
+linux
+syslinux
+linux-md
+linux-crypto
+cryptsetup
+hashalot
+dmsetup
+lvm2
+dmraid
+mdadm
+squashfs
+aufs

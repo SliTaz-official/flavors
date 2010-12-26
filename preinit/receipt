@@ -1,0 +1,7 @@
+FLAVOR="preinit"
+SHORT_DESC="Prepare the system to mount an unusual root filesystem"
+FRUGAL_RAM="32M"
+ROOTFS_SIZE="12.3M"
+INITRAMFS_SIZE="4.5M"
+ISO_SIZE="8.0M"
+
