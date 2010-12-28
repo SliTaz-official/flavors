@@ -1,4 +1,5 @@
 busybox
+busybox-static
 linux
 syslinux
 linux-md
