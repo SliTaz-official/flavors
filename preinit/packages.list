@@ -4,6 +4,7 @@ linux
 syslinux
 linux-md
 linux-crypto
+linux-btrfs
 cryptsetup
 hashalot
 dmsetup
