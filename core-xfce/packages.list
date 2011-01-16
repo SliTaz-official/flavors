@@ -145,7 +145,7 @@ perl
 perl-uri
 perl-xml-parser
 pixman
-PolicyKit0
+polkit
 poppler
 popt
 ppp
