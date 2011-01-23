@@ -119,8 +119,6 @@ libcrypto
 wireless_tools
 wpa_supplicant
 mtpaint
-libnotify
-transmission
 alsa-lib
 alsaplayer
 alsa-utils
