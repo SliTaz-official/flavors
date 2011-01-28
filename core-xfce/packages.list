@@ -32,6 +32,7 @@ freetype
 fuse
 galculator
 gamin
+garcon
 gcc-lib-base
 gcolor2
 GConf
@@ -95,7 +96,7 @@ libvorbis
 libwebkit
 libwnck
 libxcb
-libxfce4menu
+libxfce4ui
 libxfce4util
 libxfcegui4
 libxml2
