@@ -1,11 +1,13 @@
 /* CSS style for SliTaz GNU/Linux generic xHTML files. */
 
+html { min-height: 102%; }
+
 body {
 	background: #ffffff;
 	color: black;
 	font: 13px sans-serif, vernada, arial;
 	margin: 0;
-	min-width: 900px;
+	min-width: 640px;
 }
 
 a { text-decoration: underline; color: #215090; }
@@ -13,12 +15,6 @@ a:hover { text-decoration: none; color: blue; }
 img { border: 0pt none; vertical-align: middle; }
 h2 { color: #444; }
 h3 { color: #666; font-size: 140%; }
-h4 { color: #888; font-size: 120%; }
-pre { 
-	background-color: #f8f8f8; 
-	border: 1px solid #ddd; 
-	padding: 10px;
-}
 
 #header { 
 	height: 40px; 
@@ -27,9 +23,11 @@ pre {
 
 #header h1 {
 	margin: 0;
-	padding: 4px 0 0 42px;
+	padding: 8px 0 0 8px;
 	width: 250px;
 	color: white;
+	font-size: 20px;
+	font-style: italic;
 }
 
 #header h1 a { 
@@ -55,6 +53,13 @@ pre {
 	color: #fff; 
 	font-weight: bold;
 	text-decoration: none;
+}
+
+#block { 
+	min-height: 8px; 
+	background: #d66018; 
+	padding: 0;
+	border-bottom: 1px solid #f5f5f5;
 }
 
 #content {
