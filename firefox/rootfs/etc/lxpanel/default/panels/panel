@@ -2,18 +2,18 @@
 # Use preference dialog in lxpanel to adjust config when you can.
 
 Global {
-    edge=bottom
+    edge=top
     allign=center
     margin=0
     widthtype=percent
     width=100
     height=24
     transparent=1
-    tintcolor=#000000
-    alpha=0
+    tintcolor=#ffffff
+    alpha=20
     autohide=0
     heightwhenhidden=2
-    setdocktype=1
+    setdocktype=0
     setpartialstrut=1
     usefontcolor=1
     fontcolor=#ffffff
@@ -32,19 +32,21 @@ Plugin {
 Plugin {
     type = menu
     Config {
+        name=SliTazMenu.directory
         image=/usr/share/pixmaps/slitaz-menu.png
+        name=SliTazMenu.directory
         system {
         }
         separator {
         }
         item {
-            image=/usr/share/icons/SliTaz/16x16/categories/applications-system.png
+			image=exec
             command=run
         }
         separator {
         }
         item {
-            image=/usr/share/pixmaps/logout.png
+            image=logout
             command=logout
         }
     }
@@ -52,51 +54,14 @@ Plugin {
 
 Plugin {
     type = space
-    Config {
-        Size=4
-    }
-}
-
-Plugin {
-    type = launchbar
-    Config {
-        Button {
-            id=xterm.desktop
-        }
-        Button {
-            id=firefox.desktop
-        }
-    }
-}
-
-Plugin {
-    type = pager
-}
-
-Plugin {
-    type = wincmd
-    Config {
-        image=window-manager
-        Button1=iconify
-        Button2=shade
-        Toggle=0
-    }
-}
-
-Plugin {
-    type = taskbar
     expand=1
     Config {
-        tooltips=1
-        IconsOnly=0
-        ShowAllDesks=0
-        UseMouseWheel=1
-        UseUrgencyHint=1
-        FlatButton=1
-        MaxTaskWidth=200
-        spacing=1
-        GroupedTasks=0
+        Size=2
     }
+}
+
+Plugin {
+    type = tray
 }
 
 Plugin {
@@ -104,10 +69,6 @@ Plugin {
     Config {
         Size=4
     }
-}
-
-Plugin {
-    type = tray
 }
 
 Plugin {
@@ -124,7 +85,7 @@ Plugin {
 Plugin {
     type = netstatus
     Config {
-        iface=eth0
+        iface=wlan0
         configtool=subox netbox %i
     }
 }
@@ -160,26 +121,6 @@ Plugin {
     type = space
     Config {
         Size=2
-    }
-}
-
-Plugin {
-    type = launchbar
-    Config {
-        Button {
-            id=tazpkgbox.desktop
-        }
-    }
-}
-
-Plugin {
-    type = dclock
-    Config {
-        ClockFmt=%R
-        TooltipFmt=%A %x
-        Action=desktopbox calendar
-        BoldFont=0
-        IconOnly=0
     }
 }
 
