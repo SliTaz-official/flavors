@@ -197,4 +197,5 @@ xorg-xf86-video-vesa
 xorg-xkbcomp
 xorg-xkeyboard-config
 xterm
+yad
 zlib
