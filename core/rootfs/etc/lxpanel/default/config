@@ -1,4 +1,0 @@
-[Command]
-FileManager=pcmanfm %s
-Terminal=terminal
-Logout=desktopbox logout
