@@ -172,6 +172,7 @@ suggested-applications
 sysfsutils
 syslinux
 syslinux-extra
+tazchroot
 tazlito
 tazpkg
 tazusb
