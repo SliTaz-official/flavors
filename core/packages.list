@@ -143,6 +143,7 @@ sysfsutils
 syslinux
 syslinux-extra
 tazchroot
+tazdrop
 tazlito
 tazpkg
 tazusb
