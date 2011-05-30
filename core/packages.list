@@ -15,6 +15,7 @@ cairomm
 cdparanoia-III
 cdrkit
 clearlooks
+cookutils
 dbus
 dbus-glib
 depmod
@@ -90,6 +91,7 @@ linux-wireless
 locale-de
 locale-es
 locale-fr
+locale-it
 locale-pt
 lostirc
 lua
@@ -142,14 +144,12 @@ sudoku
 sysfsutils
 syslinux
 syslinux-extra
-tazchroot
 tazlito
 tazpanel
 tazpkg
 tazusb
 tazwikiss
 tazweb
-tazwok
 tiff
 transset-df
 ttf-dejavu
@@ -202,3 +202,6 @@ xorg-xkeyboard-config
 xterm
 yad
 zlib
+libdrm
+linux-drm
+linux-agp

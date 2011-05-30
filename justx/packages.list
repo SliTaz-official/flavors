@@ -95,3 +95,6 @@ xorg-xf86-video-vesa
 xorg-xsetroot
 xterm
 zlib
+htop
+clex
+
