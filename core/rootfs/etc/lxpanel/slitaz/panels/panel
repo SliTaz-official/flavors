@@ -1,0 +1,146 @@
+# lxpanel <profile> config file. Manually editing is not recommended.
+# Use preference dialog in lxpanel to adjust config when you can.
+
+Global {
+    edge=top
+    allign=center
+    margin=0
+    widthtype=percent
+    width=100
+    height=24
+    transparent=0
+    tintcolor=#ffffff
+    alpha=20
+    autohide=0
+    heightwhenhidden=2
+    setdocktype=0
+    setpartialstrut=1
+    usefontcolor=1
+    fontcolor=#ffffff
+    background=1
+    backgroundfile=/usr/share/images/panel-background.png
+    iconsize=22
+}
+
+Plugin {
+    type = space
+    Config {
+        Size=4
+    }
+}
+
+Plugin {
+    type = menu
+    Config {
+        name=SliTazMenu.directory
+        image=/usr/share/pixmaps/slitaz-menu.png
+        system {
+        }
+        separator {
+        }
+        item {
+            image=exec
+            command=run
+        }
+        separator {
+        }
+        item {
+            image=logout
+            command=logout
+        }
+    }
+}
+
+Plugin {
+    type = space
+    Config {
+        Size=2
+    }
+}
+
+Plugin {
+    type = launchbar
+    Config {
+        Button {
+            id=/usr/share/applications/xterm.desktop
+        }
+        Button {
+            id=/usr/share/applications/leafpad.desktop
+        }
+        Button {
+            id=/usr/share/applications/tazweb.desktop
+        }
+    }
+}
+
+Plugin {
+    type = space
+    expand=1
+    Config {
+        Size=2
+    }
+}
+
+Plugin {
+    type = tray
+}
+
+Plugin {
+    type = space
+    Config {
+        Size=4
+    }
+}
+
+Plugin {
+    type = volumealsa
+}
+
+Plugin {
+    type = space
+    Config {
+        Size=8
+    }
+}
+
+Plugin {
+    type = netstatus
+    Config {
+        iface=wlan0
+        configtool=subox netbox %i
+    }
+}
+
+Plugin {
+    type = space
+    Config {
+        Size=4
+    }
+}
+
+Plugin {
+    type = batt
+    Config {
+        HideIfNoBattery=0
+        AlarmCommand=xmessage Battery low
+        AlarmTime=5
+        BackgroundColor=black
+        BorderWidth=1
+        ChargingColor1=#28f200
+        ChargingColor2=#22cc00
+        DischargingColor1=#ffee00
+        DischargingColor2=#d9ca00
+        Size=8
+    }
+}
+
+Plugin {
+    type = cpu
+}
+
+Plugin {
+    type = space
+    Config {
+        Size=2
+    }
+}
