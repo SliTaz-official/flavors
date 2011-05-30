@@ -19,7 +19,7 @@ grub4dos-linux
 hal
 isapnptools
 jpeg
-kbd-busybox
+kbd-base
 libcap
 libcomerr
 libcrypto
