@@ -2,6 +2,7 @@ busybox
 bzlib
 cairo
 cdrkit
+cookutils
 dbus
 dbus-glib
 dialog
@@ -55,11 +56,9 @@ startup-notification
 sysfsutils
 syslinux
 syslinux-extra
-tazchroot
 tazlito
 tazpkg
 tazusb
-tazwok
 tiff
 ttf-dejavu
 udev
