@@ -31,7 +31,7 @@ linux
 locale-de
 locale-es
 locale-fr
-locale-pt
+locale-pt_BR
 lzlib
 lzma
 nano
