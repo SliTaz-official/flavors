@@ -191,7 +191,7 @@ xorg-libXt
 xorg-libXtst
 xorg-libXxf86vm
 xorg-rgb
-xorg-server
+xorg-server-light
 xorg-setxkbmap
 xorg-xauth
 xorg-xcompmgr
@@ -202,6 +202,3 @@ xorg-xkeyboard-config
 xterm
 yad
 zlib
-libdrm
-linux-drm
-linux-agp
