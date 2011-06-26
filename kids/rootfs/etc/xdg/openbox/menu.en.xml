@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+
+<!-- Configuration and system tools -->
+<menu id="admin-menu" label="Configuration &amp; Tools">
+  <item label="Change the wallpaper">
+    <action name="Execute"><command>nitrogen</command></action>
+  </item>
+  <item label="Icons Bar configuration">
+    <action name="Execute"><command>wbar-config</command></action>
+  </item>
+  <item label="Task Bar configuration">
+    <action name="Execute"><command>tint2conf</command></action>
+  </item>
+  <item label="Terminal Emulator">
+    <action name="Execute"><command>xterm</command></action>
+  </item>
+</menu>
+
+<menu id="root-menu" label="Openbox 3">
+  <item label="Play games and learn :-)">
+    <action name="Execute"><command>childsplay</command></action>
+  </item>
+  <item label="Listen to your music">
+    <action name="Execute"><command>alsaplayer ~/Music</command></action>
+  </item>
+  <item label="Create a document">
+    <action name="Execute"><command>xournal</command></action>
+  </item>
+  <item label="Images slideshow">
+    <action name="Execute"><command>gqview -t -s ~/Images</command></action>
+  </item>
+  <item label="Manage your files">
+    <action name="Execute"><command>pcmanfm</command></action>
+  </item>
+  <separator />
+  <menu id="admin-menu" />
+  <item label="Logout session">
+    <action name="Execute"><command>openbox --exit</command></action>
+  </item>
+  <item label="Stop computer">
+    <action name="Execute"><command>poweroff</command></action>
+  </item>
+</menu>
+
+</openbox_menu>
+

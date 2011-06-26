@@ -1,0 +1,12 @@
+# SliTaz flavor receipt.
+
+FLAVOR="kids"
+SHORT_DESC="SliTaz desktop for kids"
+VERSION="20110626"
+MAINTAINER="pankso@slitaz.org"
+COMPRESSION="gzip"
+
+FRUGAL_RAM="512M"
+ROOTFS_SIZE="160.0M"
+INITRAMFS_SIZE="65.0M"
+ISO_SIZE="68.0M"

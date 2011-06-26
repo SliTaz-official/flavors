@@ -1,0 +1,16 @@
+[General]
+big_icon_size=32
+terminal=xterm
+
+[Window]
+width=640
+height=480
+splitter_pos=160
+maximized=0
+
+[Desktop]
+show_wallpaper=1
+wallpaper=/usr/share/images/slitaz-background.jpg
+show_wm_menu=1
+bg2=60335,46866,20760
+[Interface]
