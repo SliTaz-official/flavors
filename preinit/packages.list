@@ -13,3 +13,5 @@ dmraid
 mdadm
 squashfs
 aufs
+ntfs-3g
+posixovl
