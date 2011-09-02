@@ -10,6 +10,7 @@ cairo
 cairomm
 cdrkit
 clearlooks
+cookutils
 dbus
 dbus-glib
 depmod
@@ -44,7 +45,7 @@ hicolor-icon-theme
 isapnptools
 isomaster
 jpeg
-kbd-busybox
+kbd-base
 lcms
 leafpad
 libcap
@@ -129,13 +130,11 @@ sudoku
 sysfsutils
 syslinux
 syslinux-extra
-tazchroot
 tazlito
 tazpkg
 tazusb
 tazwikiss
 tazweb
-tazwok
 tiff
 transset-df
 ttf-dejavu
@@ -175,7 +174,7 @@ xorg-libXt
 xorg-libXtst
 xorg-libXxf86vm
 xorg-rgb
-xorg-server
+xorg-server-light
 xorg-setxkbmap
 xorg-xauth
 xorg-xcompmgr

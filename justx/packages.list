@@ -36,6 +36,7 @@ lzlib
 lzma
 nano
 ncurses
+ncurses-common
 openbox
 pango
 pciutils
@@ -94,6 +95,3 @@ xorg-xf86-video-vesa
 xorg-xsetroot
 xterm
 zlib
-htop
-clex
-
