@@ -1,8 +1,8 @@
 # SliTaz flavor receipt.
 
-FLAVOR="core-basic"
-SHORT_DESC="Core system without wifi or sound."
-VERSION="20110328"
+FLAVOR="gtkonly"
+SHORT_DESC="Clean and pure desktop with GTK file manager and panel"
+VERSION="20120222"
 MAINTAINER="pascal.bellard@slitaz.org"
 
 FRUGAL_RAM="144M"
