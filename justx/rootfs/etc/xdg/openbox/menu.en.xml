@@ -4,9 +4,6 @@
 
 <!-- Applications -->
 <menu id="applications-menu" label="Applications">
-  <item label="Clex File Manager">
-    <action name="Execute"><command>terminal -e clex</command></action>
-  </item>
   <item label="XTerm Terminal">
     <action name="Execute"><command>xterm</command></action>
   </item>
@@ -19,17 +16,11 @@
   <item label="SQLite SQL Engine">
     <action name="Execute"><command>terminal -e sqlite3</command></action>
   </item>
-  <item label="Htop Processes Viewer">
-    <action name="Execute"><command>terminal -e htop</command></action>
-  </item>
   <item label="Local ports scan">
     <action name="Execute"><command>terminal -hold -e "pscan localhost"</command></action>
   </item>
   <item label="Show Boot Log">
     <action name="Execute"><command>terminal -hold -e bootlog</command></action>
-  </item>
-  <item label="SliTaz Installer">
-    <action name="Execute"><command>terminal -e "su -c slitaz-installer"</command></action>
   </item>
 </menu>
 
