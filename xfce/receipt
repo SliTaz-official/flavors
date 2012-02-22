@@ -1,6 +1,6 @@
 # SliTaz flavor receipt.
 
-FLAVOR="core-xfce"
+FLAVOR="xfce"
 SHORT_DESC="SliTaz Core with XFCE Desktop, Firefox and Mercurial"
 VERSION="20100512"
 MAINTAINER="miltonsj@gmail.com"
