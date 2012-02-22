@@ -1,7 +1,6 @@
 915resolution
 acl
 atk
-atkmm
 attr
 busybox
 bzlib
@@ -41,7 +40,6 @@ libcomerr
 libcrypto
 libgcrypt
 libgio
-libgiomm
 libglade
 libgnutls
 libgpg-error
