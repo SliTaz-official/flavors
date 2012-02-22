@@ -26,7 +26,7 @@
     <action name="Execute"><command>alsaplayer ~/Music</command></action>
   </item>
   <item label="Create a document">
-    <action name="Execute"><command>xournal</command></action>
+    <action name="Execute"><command>abiword</command></action>
   </item>
   <item label="Images slideshow">
     <action name="Execute"><command>gqview -t -s ~/Images</command></action>
