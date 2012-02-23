@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>SliTaz Devel</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+	
+<div id="header">
+	<h1>SliTaz Devel</h1>
+</div>
+
+<!-- Start content -->
+<div id="content">
+
+<h2>SliTaz for contributors</h2>
+
+<p>
+	Welcome to the SliTaz Developers and Contributors flavor. This flavor
+	should be used in LiveCD mode with the option home= or in LiveUSB
+	mode so you will have a pesistent developement environment.
+</p>
+
+<p>
+	You should work in the chroot for compiling and keep your repos
+	under ~/Projects and commit from there. Tazdev need files in this
+	path to perform a release or get stats via 'tazdev -ps'
+</p>
+
+<p>
+	Let the contributors community and users know what you working on
+	and post and update on SCN devel group or on your profile: 
+	<a href="http://scn.slitaz.org">http://scn.slitaz.org</a>
+</p>
+
+<h2>Applications</h2>
+
+<ul>
+	<li>TazDev home made utility</li>
+	<li>Python and Mercurial</li>
+	<li>Lighttpd and PHP</li>
+	<li>Geany IDE with plugins</li>
+	<li>Tcc Tiny C Compiler</li>
+	<li>Make and Gettext for POT files</li>
+	<li>Mesa demos to test Xorg DRI/DRM</li>
+	<li>gFTP to connect to Tank via SSH</li>
+</ul>
+
+<p>
+	As on a standard SliTaz system you can install some more applications
+	with the packages manager Tazpkg.
+</p>
+
+<h2>Website</h2>
+
+<p>
+	To work on the website you should clone the repos under your ~/Public
+	directory so you can browse it and check you changes in a browser. Tp
+	clone the website:
+</p>
+
+<pre>
+$ cd ~/Public
+$ hg clone <a href="http://hg.slitaz.org/website">http://hg.slitaz.org/website</a>
+</pre>
+
+<p>
+	Say you are tux user you can navigate to:
+	<a href="http://localhost/~tux/">http://localhost/~tux/</a>
+</p>
+
+<h2>Cook packages</h2>
+
+<p>
+	With SliTaz custom tools it's easy to cook packages :-) Create a 
+	chroot, set it up and cook an existing package in undigest or 
+	your own one. Open a terminal, become root and execute:
+</p>
+
+<pre>
+# tazdev gen-chroot
+# tazdev chroot
+/# cook setup --undigest
+/# cook pkgname
+</pre>
+
+<p>
+	Your freshly cooked package is now in /home/slitaz/cooking/packages
+</p>
+
+<!-- End content -->
+</div>
+
+<div id="footer">
+	Copyright (C) 2012 SliTaz contributors
+</div>
+
+</body>
+</html>
+

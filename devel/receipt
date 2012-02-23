@@ -1,0 +1,11 @@
+# SliTaz flavor receipt.
+
+FLAVOR="devel"
+SHORT_DESC="Developers and contributors flavors with Mercurial, PHP, and more"
+VERSION="20120222"
+MAINTAINER="pankso@slitaz.org"
+
+FRUGAL_RAM="160M"
+ROOTFS_SIZE="121.3M"
+INITRAMFS_SIZE="29.2M"
+ISO_SIZE="33.0M"
