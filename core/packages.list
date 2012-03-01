@@ -97,6 +97,7 @@ lostirc
 lua
 lxappearance
 lxpanel
+lxrandr
 lxtask
 lzlib
 lzma
@@ -113,8 +114,10 @@ ntfs-3g
 ntfsprogs
 obconf
 openbox
+osmo
 pango
 pangomm
+parcellite
 parted
 pciutils
 pcmanfm
@@ -152,6 +155,7 @@ tazusb
 tazwikiss
 tazweb
 tiff
+transmission
 transset-df
 ttf-dejavu
 udev
@@ -192,14 +196,18 @@ xorg-libXt
 xorg-libXtst
 xorg-libXxf86vm
 xorg-rgb
-xorg-server-light
+xorg-server
 xorg-setxkbmap
 xorg-xauth
 xorg-xcompmgr
 xorg-xf86-input-evdev
+xorg-xf86-video-geode
+xorg-xf86-video-intel
+xorg-xf86-video-nv
 xorg-xf86-video-vesa
 xorg-xkbcomp
 xorg-xkeyboard-config
 xterm
 yad
 zlib
+

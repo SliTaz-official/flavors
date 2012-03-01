@@ -87,7 +87,7 @@ xorg-libXrender
 xorg-libXt
 xorg-libXtst
 xorg-rgb
-xorg-server-light
+xorg-server
 xorg-setxkbmap
 xorg-xauth
 xorg-xf86-input-evdev

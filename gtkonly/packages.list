@@ -146,7 +146,7 @@ xorg-libXt
 xorg-libXtst
 xorg-libXxf86vm
 xorg-rgb
-xorg-server-light
+xorg-server
 xorg-setxkbmap
 xorg-xauth
 xorg-xcompmgr
