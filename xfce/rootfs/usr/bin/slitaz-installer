@@ -517,10 +517,10 @@ users_settings()
 {
 	cat > $TARGET_ROOT/users.sh << _EOF_
 #!/bin/sh
-echo "root:$ROOT_PASSWD" | chpasswd
+echo "root:$ROOT_PASSWD" | chpasswd -m
 adduser -D -H $USER
 addgroup $USER audio
-echo "$USER:$USER_PASSWD" | chpasswd
+echo "$USER:$USER_PASSWD" | chpasswd -m
 if [ ! -d /home/$USER ]; then
 	cp -a /etc/skel /home/$USER
 	chown -R $USER.$USER /home/$USER
