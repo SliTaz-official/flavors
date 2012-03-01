@@ -9,45 +9,37 @@ Global {
     width=100
     height=24
     transparent=1
-    tintcolor=#ffffff
-    alpha=20
+    tintcolor=#351a0a
+    alpha=255
     autohide=0
     heightwhenhidden=2
     setdocktype=0
     setpartialstrut=1
     usefontcolor=1
-    fontcolor=#ffffff
+    fontcolor=#cfcfcf
     background=0
-    backgroundfile=/usr/share/lxpanel/images/background.png
-    iconsize=24
+    backgroundfile=/usr/share/images/panel-background.png
+    iconsize=22
 }
 
 Plugin {
     type = space
     Config {
-        Size=4
+        Size=2
     }
 }
 
 Plugin {
-    type = menu
+    type = launchbar
     Config {
-        name=SliTazMenu.directory
-        image=/usr/share/pixmaps/slitaz-menu.png
-        name=SliTazMenu.directory
-        system {
+        Button {
+            id=/usr/share/applications/xterm.desktop
         }
-        separator {
+        Button {
+            id=/usr/share/applications/tazpanel.desktop
         }
-        item {
-			image=exec
-            command=run
-        }
-        separator {
-        }
-        item {
-            image=logout
-            command=logout
+        Button {
+            id=/usr/share/applications/firefox.desktop
         }
     }
 }
@@ -61,13 +53,20 @@ Plugin {
 }
 
 Plugin {
-    type = tray
+    type = dclock
+    Config {
+        ClockFmt=%A %d %B - %R
+        TooltipFmt=%A %x - %T
+        BoldFont=1
+        IconOnly=0
+    }
 }
 
 Plugin {
     type = space
+    expand=1
     Config {
-        Size=4
+        Size=2
     }
 }
 
@@ -78,7 +77,7 @@ Plugin {
 Plugin {
     type = space
     Config {
-        Size=4
+        Size=8
     }
 }
 
@@ -86,7 +85,7 @@ Plugin {
     type = netstatus
     Config {
         iface=wlan0
-        configtool=subox netbox %i
+        configtool=browser http://tazpanel:82/network.cgi
     }
 }
 
@@ -101,15 +100,22 @@ Plugin {
     type = batt
     Config {
         HideIfNoBattery=0
-        AlarmCommand=xmessage Battery low
+        AlarmCommand=desktopbox notify "Battery low" 4
         AlarmTime=5
-        BackgroundColor=black
-        BorderWidth=1
-        ChargingColor1=#28f200
-        ChargingColor2=#22cc00
-        DischargingColor1=#ffee00
-        DischargingColor2=#d9ca00
-        Size=8
+        BackgroundColor=#1b0c03
+        BorderWidth=3
+        ChargingColor1=#cfcfcf
+        ChargingColor2=#cfcfcf
+        DischargingColor1=#473b34
+        DischargingColor2=#473b34
+        Size=12
+    }
+}
+
+Plugin {
+    type = space
+    Config {
+        Size=4
     }
 }
 
