@@ -16,6 +16,7 @@ dialog
 dropbear
 e2fsprogs
 expat
+firmware-rt2x00
 fontconfig
 freetype
 fuse
