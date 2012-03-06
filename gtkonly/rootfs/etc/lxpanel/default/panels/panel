@@ -104,3 +104,14 @@ Plugin {
     }
 }
 
+Plugin {
+    type = cpu
+}
+
+Plugin {
+    type = space
+    Config {
+        Size=2
+    }
+}
+

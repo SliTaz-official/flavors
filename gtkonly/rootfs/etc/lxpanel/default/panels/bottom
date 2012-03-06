@@ -27,9 +27,6 @@ Plugin {
     Config {
         name=SliTazMenu.directory
         image=slitaz-menu
-        name=SliTazMenu.directory
-        name=SliTazMenu.directory
-        name=SliTazMenu.directory
         system {
         }
         separator {
