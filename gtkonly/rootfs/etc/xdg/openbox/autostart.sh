@@ -11,7 +11,7 @@ dbus-launch --exit-with-session &
 pcmanfm -d &
 
 # Start the Freedesktop panel standard menu.
-lxpanel &
+lxpanel -p slitaz &
 
 # Start Parcellite clipboard manager.
 #parcellite &
