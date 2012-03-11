@@ -1,0 +1,11 @@
+# SliTaz flavor receipt.
+
+FLAVOR="dolibarr"
+SHORT_DESC="Dolibarr GRC/CRM Live
+VERSION="20120305"
+MAINTAINER="erjo@slitaz.org"
+
+FRUGAL_RAM="160M"
+ROOTFS_SIZE="121.3M"
+INITRAMFS_SIZE="29.2M"
+ISO_SIZE="33.0M"
