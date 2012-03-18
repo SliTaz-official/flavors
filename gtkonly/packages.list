@@ -118,6 +118,7 @@ udev
 util-linux-ng-blkid
 util-linux-ng-getopt
 util-linux-ng-uuid
+wpa_supplicant
 xcb-util
 xorg
 xorg-base-fonts
