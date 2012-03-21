@@ -1,4 +1,5 @@
 915resolution
+attr
 busybox
 bzlib
 cairo
@@ -45,6 +46,7 @@ pcmciautils
 pcre
 pixman
 popt
+posixovl
 ppp
 rp-pppoe
 slim

@@ -1,3 +1,4 @@
+attr
 busybox
 bzlib
 cookutils
@@ -15,6 +16,7 @@ linux
 lzlib
 lzma
 pcmciautils
+posixovl
 ppp
 rp-pppoe
 slitaz-base-files
