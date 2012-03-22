@@ -1,11 +1,11 @@
 slitaz-boot-scripts
 busybox
-busybox-static
 linux
 syslinux
 linux-md
 linux-crypto
 linux-btrfs
+linux-hfsplus
 cryptsetup
 hashalot
 dmsetup
