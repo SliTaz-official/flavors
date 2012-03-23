@@ -1,5 +1,5 @@
 #!/bin/sh
-# distro.sh, changet set for slitaz-dolibarr
+# distro.sh, changeset for slitaz-dolibarr
 #
 # Eric Joseph-Alexandre <erjo@slitaz.org>
 
@@ -95,9 +95,9 @@ sed -i 's/tazweb/midori/' $ROOTFS/etc/lxpanel/default/panels/panel
 sed -i 's/tazweb/midori/' $ROOTFS/etc/lxpanel/original/panels/panel 
 
 #~ 
-# fix perms (don(t know why)
+# fix perms (don't know why)
 chmod 755 $ROOTFS/etc/mysql.d/*
 
-# Add shorcut on the Desktop
+# Add shortcut on the Desktop
 cp $ROOTFS/usr/share/applications/dolibarr.desktop $ROOTFS/etc/skel/Desktop
 #cp $ROOTFS/usr/share/applications/phpmyadmin.desktop $ROOTFS/etc/skel/Desktop

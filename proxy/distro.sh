@@ -1,5 +1,5 @@
 #!/bin/sh
-# distro.sh, changet set for slitaz-dolibarr
+# distro.sh, changeset for slitaz-dolibarr
 #
 # Eric Joseph-Alexandre <erjo@slitaz.org>
 
@@ -89,5 +89,5 @@ sed -i 's/tazweb/midori/' $ROOTFS/usr/share/lxpanel/profile/default/panels/panel
 sed -i 's/tazweb/midori/' $ROOTFS/etc/lxpanel/default/panels/panel  
 sed -i 's/tazweb/midori/' $ROOTFS/etc/lxpanel/original/panels/panel 
 
-# Add shorcut on the Desktop
+# Add shortcut on the Desktop
 #cp $ROOTFS/usr/share/applications/dolibarr.desktop $ROOTFS/etc/skel/Desktop
