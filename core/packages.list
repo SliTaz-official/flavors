@@ -9,6 +9,7 @@ atkmm
 attr
 beaver
 busybox
+udev
 bzlib
 cairo
 cairomm
@@ -159,7 +160,6 @@ tiff
 transmission
 transset-df
 ttf-dejavu
-udev
 util-linux-ng-blkid
 util-linux-ng-getopt
 util-linux-ng-uuid
@@ -211,4 +211,4 @@ xorg-xkeyboard-config
 xterm
 yad
 zlib
-
+sakura
