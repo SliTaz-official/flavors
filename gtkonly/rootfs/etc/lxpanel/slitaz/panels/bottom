@@ -27,6 +27,7 @@ Plugin {
     Config {
         name=SliTazMenu.directory
         image=slitaz-menu
+        #tintcolor=orange
         system {
         }
         separator {
@@ -35,12 +36,11 @@ Plugin {
             image=exec
             command=run
         }
-        separator {
-        }
-        item {
-            image=lxde-logout
-            command=logout
-        }
+        #item {
+            #image=img
+            #name=Item name
+            #action=progname
+        #}
     }
 }
 
