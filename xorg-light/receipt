@@ -1,11 +1,11 @@
 # SliTaz flavor receipt.
 
-FLAVOR="core"
-SHORT_DESC="Core system with a full featured desktop."
-VERSION="20110328"
+FLAVOR="xorg-light"
+SHORT_DESC="Core using an light version of Xorg and vesa driver."
+VERSION="20120409"
 MAINTAINER="pankso@slitaz.org"
 
 FRUGAL_RAM="160M"
 ROOTFS_SIZE="121.3M"
 INITRAMFS_SIZE="29.2M"
-ISO_SIZE="33.0M"
+ISO_SIZE="34.0M"
