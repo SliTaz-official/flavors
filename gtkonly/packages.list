@@ -109,6 +109,7 @@ startup-notification
 sysfsutils
 syslinux
 syslinux-extra
+tazbug
 tazlito
 tazpkg
 tazusb
