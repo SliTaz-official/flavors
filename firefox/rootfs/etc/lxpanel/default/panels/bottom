@@ -38,12 +38,12 @@ Plugin {
             image=exec
             command=run
         }
-        separator {
-        }
-        item {
-            image=lxde-logout
-            command=logout
-        }
+       #separator {
+       #}
+       #item {
+       #    image=lxde-logout
+       #    command=logout
+       #}
     }
 }
 

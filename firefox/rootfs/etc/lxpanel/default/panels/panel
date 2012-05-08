@@ -33,7 +33,7 @@ Plugin {
     type = launchbar
     Config {
         Button {
-            id=/usr/share/applications/xterm.desktop
+            id=/usr/share/applications/sakura.desktop
         }
         Button {
             id=/usr/share/applications/tazpanel.desktop
@@ -115,7 +115,7 @@ Plugin {
 Plugin {
     type = space
     Config {
-        Size=4
+        Size=6
     }
 }
 
@@ -126,7 +126,22 @@ Plugin {
 Plugin {
     type = space
     Config {
-        Size=2
+        Size=4
     }
 }
 
+Plugin {
+    type = launchbar
+    Config {
+        Button {
+            id=/usr/share/applications/slitaz-logout.desktop
+        }
+    }
+}
+
+Plugin {
+    type = space
+    Config {
+        Size=4
+    }
+}
