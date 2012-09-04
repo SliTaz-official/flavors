@@ -18,7 +18,6 @@ clearlooks
 cookutils
 dbus
 dbus-glib
-depmod
 desktop-file-utils
 dia
 dialog
@@ -55,6 +54,7 @@ isapnptools
 isomaster
 jpeg
 kbd-base
+kmod
 lcms
 leafpad
 libcap

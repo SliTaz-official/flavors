@@ -17,7 +17,6 @@ clearlooks
 cookutils
 dbus
 dbus-glib
-depmod
 desktop-file-utils
 dialog
 dropbear
@@ -51,6 +50,7 @@ isapnptools
 isomaster
 jpeg
 kbd-base
+kmod
 lcms
 leafpad
 libcap
