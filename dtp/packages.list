@@ -1,4 +1,6 @@
 915resolution
+abiword
+abiword-plugins
 acl
 alsa-lib
 alsaplayer
@@ -26,6 +28,7 @@ e2fsprogs
 enchant
 epdfview
 expat
+firefox
 firmware-rt2x00
 fontconfig
 freetype
@@ -40,6 +43,7 @@ gimp
 glib
 glibc-base
 glibmm
+gnumeric
 gparted
 gpxe
 grub4dos-linux
