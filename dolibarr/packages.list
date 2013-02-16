@@ -194,6 +194,7 @@ xorg-xauth
 xorg-xcompmgr
 xorg-xf86-input-evdev
 xorg-xf86-input-synaptics
+xorg-xf86-video-fbdev
 xorg-xf86-video-geode
 xorg-xf86-video-intel
 xorg-xf86-video-nv

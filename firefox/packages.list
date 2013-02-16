@@ -199,6 +199,7 @@ xorg-setxkbmap
 xorg-xauth
 xorg-xcompmgr
 xorg-xf86-input-evdev
+xorg-xf86-video-fbdev
 xorg-xf86-video-vesa
 xorg-xkbcomp
 xorg-xkeyboard-config
