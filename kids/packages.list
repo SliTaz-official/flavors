@@ -19,7 +19,7 @@ glibc-base
 gpxe
 grub4dos-linux
 gtk+
-hal
+udevil
 hicolor-icon-theme
 isapnptools
 jpeg
@@ -113,7 +113,7 @@ xterm
 yad
 zlib
 clearlooks
-pcmanfm
+spacefm
 leafpad
 mtpaint
 gqview

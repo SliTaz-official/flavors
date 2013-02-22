@@ -22,7 +22,7 @@ gpxe
 grub4dos-linux
 gtk+
 gtkdialog
-hal
+udevil
 hardinfo
 hicolor-icon-theme
 isapnptools
@@ -56,7 +56,7 @@ obconf
 openbox
 pango
 pciutils
-pcmanfm
+spacefm
 pcmciautils
 pcre
 pixman

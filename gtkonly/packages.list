@@ -29,7 +29,7 @@ gpxe
 grub4dos-linux
 gtk+
 gtkdialog
-hal
+udevil
 hicolor-icon-theme
 isapnptools
 jpeg
@@ -83,7 +83,7 @@ obconf
 openbox
 pango
 pciutils
-pcmanfm
+spacefm
 pcmciautils
 pcre
 pixman

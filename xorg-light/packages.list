@@ -45,7 +45,7 @@ grub4dos-linux
 gtk+
 gtkdialog
 gtkmm
-hal
+udevil
 hardinfo
 hicolor-icon-theme
 isapnptools
@@ -121,7 +121,7 @@ pangomm
 parcellite
 parted
 pciutils
-pcmanfm
+spacefm
 pcmciautils
 pcre
 pixman

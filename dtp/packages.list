@@ -50,7 +50,7 @@ grub4dos-linux
 gtk+
 gtkdialog
 gtkmm
-hal
+udevil
 hardinfo
 hicolor-icon-theme
 inkscape
@@ -125,7 +125,7 @@ pango
 pangomm
 parted
 pciutils
-pcmanfm
+spacefm
 pcmciautils
 pcre
 pixman
