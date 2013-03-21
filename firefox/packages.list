@@ -205,3 +205,5 @@ xorg-xkbcomp
 xorg-xkeyboard-config
 xterm
 zlib
+tazinst
+tazinst-gui

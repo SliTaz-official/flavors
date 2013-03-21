@@ -211,3 +211,5 @@ make
 mesa-demos
 gettext
 vim
+tazinst
+tazinst-gui

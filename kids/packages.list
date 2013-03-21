@@ -129,3 +129,5 @@ python-pygame
 libsdl
 childsplay
 tuxmath
+tazinst
+tazinst-gui

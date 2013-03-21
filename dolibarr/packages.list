@@ -210,5 +210,6 @@ php-mysql
 mysql
 phpmyadmin
 dolibarr
-
+tazinst
+tazinst-gui
 

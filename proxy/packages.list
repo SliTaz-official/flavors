@@ -212,4 +212,5 @@ squidclamav
 sarg
 tor
 lighttpd
-
+tazinst
+tazinst-gui
