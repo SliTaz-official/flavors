@@ -1,4 +1,4 @@
 [Command]
-FileManager=pcmanfm %s
+FileManager=spacefm %s
 Terminal=terminal
-Logout=desktopbox logout
+Logout=tazbox logout
