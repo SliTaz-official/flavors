@@ -7,7 +7,7 @@ dropbear
 e2fsprogs
 gcc-lib-base
 glibc-base
-gpxe
+ipxe
 grub4dos-linux
 isapnptools
 kbd-base

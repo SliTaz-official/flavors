@@ -40,7 +40,7 @@ glib
 glibc-base
 glibmm
 gparted
-gpxe
+ipxe
 grub4dos-linux
 gtk+
 gtkdialog

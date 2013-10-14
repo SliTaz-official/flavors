@@ -16,7 +16,7 @@ freetype
 gcc-lib-base
 glib
 glibc-base
-gpxe
+ipxe
 grub4dos-linux
 gtk+
 udevil

@@ -19,7 +19,7 @@ gcc-lib-base
 get-wifi-firmware
 glib
 glibc-base
-gpxe
+ipxe
 grub4dos-linux
 gtk+
 gtkdialog

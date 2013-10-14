@@ -34,7 +34,7 @@ gdk-pixbuf
 gettext-base
 glib
 glibc-base
-gpxe
+ipxe
 grub4dos-linux
 gtk+
 gtkdialog
