@@ -1,7 +1,7 @@
 # SliTaz flavor receipt.
 
 FLAVOR="core"
-SHORT_DESC="Core system with a full featured desktop."
+SHORT_DESC="Core system with a fully featured desktop."
 VERSION="20110328"
 MAINTAINER="pankso@slitaz.org"
 

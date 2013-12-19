@@ -173,7 +173,7 @@ set_password()
 		PASS1="$(echo $PASSWORD | cut -d ' ' -f1)"
 		PASS2="$(echo $PASSWORD | cut -d ' ' -f2)"
 		if [ "$PASS1" != "$PASS2" ]; then
-			msg "Passwords don't match.\nNothing changed."
+			msg "Passwords do not match.\nNothing changed."
 		else
 			echo  "root:$PASS1" | chpasswd
 		fi

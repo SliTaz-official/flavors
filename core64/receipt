@@ -1,7 +1,7 @@
 # SliTaz flavor receipt.
 
 FLAVOR="core64"
-SHORT_DESC="64 bits kernel with a full featured 32 bits desktop."
+SHORT_DESC="64 bits kernel with a fully featured 32 bits desktop."
 VERSION="20131219"
 MAINTAINER="pascal.bellard@slitaz.org"
 
