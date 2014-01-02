@@ -1,0 +1,11 @@
+# SliTaz flavor receipt.
+
+FLAVOR="jwm"
+SHORT_DESC="Fast desktop powered by JWM"
+VERSION="20140102"
+MAINTAINER="pankso@slitaz.org"
+
+FRUGAL_RAM="128M"
+ROOTFS_SIZE="68.4M"
+INITRAMFS_SIZE="16.8M"
+ISO_SIZE="21.0M"
