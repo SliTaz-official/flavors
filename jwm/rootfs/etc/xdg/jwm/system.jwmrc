@@ -13,17 +13,29 @@
 				terminal -e top
 			</Program>
 		</Menu>
+		<Menu icon="applications-development.png" label="Development">
+			<Program icon="fluid.png" label="Fluid Designer">
+				fluid
+			</Program>
+			<Program icon="internet-web-browser.png" label="CGI Environment">
+				browser http://localhost/cgi-bin/cgi-env.sh
+			</Program>
+		</Menu>
 		<Menu icon="applications-internet.png" label="Network">
 			<Program icon="internet-web-browser.png" label="Dillo Web browser">
 				dillo
 			</Program>
-			<Program icon="xterm.png" label="Scan loclhost ports">
+			<Program icon="internet-web-browser.png" label="Local Web server">
+				browser http://localhost/
+			</Program>
+			<Program icon="xterm.png" label="Scan localhost ports">
 				terminal -e "(pscan localhost; read i)"
 			</Program>
 		</Menu>
 		<Program icon="tazpkg.png" label="Packages manager">terminal -e tazpkg shell</Program>
 		<Program icon="text-editor.png" label="Nano Text editor">terminal -e nano</Program>
 		<Program icon="xterm.png" label="Terminal">terminal</Program>
+		<Program icon="tazpanel.png" label="SliTaz Panel">browser http://tazpanel:82</Program>
 	</RootMenu>
 	
 	<RootMenu height="24" onroot="3">

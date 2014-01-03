@@ -46,11 +46,13 @@ syslinux
 syslinux-extra
 tazinst
 tazlito
+tazpanel
 tazpkg
 tazusb
 tiff
 ttf-dejavu
 udev
+xorg-libXcursor
 xorg-libXinerama
 xorg-server
 xorg-setxkbmap
