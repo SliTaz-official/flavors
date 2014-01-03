@@ -26,20 +26,20 @@
 
 <!-- Openbox configuration -->
 <menu id="openbox-menu" label="Openbox">
-  <item label="Openbox Config">
+  <!--<item label="Openbox Config">
     <command>editor ~/.config/openbox/rc.xml</command>
   </item>
   <item label="Autostart Script">
     <action name="Execute">
-      <command>editor ~/.config/openbox/autostart.sh</command>
+      <command>editor -e nano ~/.config/openbox/autostart</command>
     </action>
   </item>
   <item label="Openbox Menu">
     <action name="Execute">
-      <command>editor ~/.config/openbox/menu.xml</command>
+      <command>editor -e nano ~/.config/openbox/menu.xml</command>
     </action>
   </item>
-  <separator />
+  <separator />-->
   <item label="Reconfigure">
     <action name="Reconfigure" />
   </item>
