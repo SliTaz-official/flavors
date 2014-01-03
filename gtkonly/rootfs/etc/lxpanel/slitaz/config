@@ -1,4 +1,0 @@
-[Command]
-FileManager=spacefm %s
-Terminal=terminal
-Logout=tazbox logout
