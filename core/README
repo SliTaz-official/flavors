@@ -1,0 +1,31 @@
+
+
+I removed Gparted/LostIRC and so all *mm packages can be removed saving lot
+of space on the ISO (~2Mb). Tazinstal can handle partition on it's own no ?
+
+- Pankso 20140103
+
+
+Proposal packages remouved from 4.0
+-----------------------------------
+
+-ntfs-3g
+-ntfsprogs
+-gparted
+-lostirc
+-pangomm
+-glibmm
+-gtkmm
+
+Realy not sure about these one neighter:::
+
+-transmission
+-isomaster
+-lua
+-hardinfo
+
+Only for the 'man command' ? Why not install it on the fly sonce man is
+not often used ?
+
+-readline
+-retawq
