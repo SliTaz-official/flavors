@@ -31,12 +31,12 @@
   </item>
   <item label="Autostart Script">
     <action name="Execute">
-      <command>editor -e nano ~/.config/openbox/autostart</command>
+      <command>editor ~/.config/openbox/autostart</command>
     </action>
   </item>
   <item label="Openbox Menu">
     <action name="Execute">
-      <command>editor -e nano ~/.config/openbox/menu.xml</command>
+      <command>editor ~/.config/openbox/menu.xml</command>
     </action>
   </item>
   <separator />-->
