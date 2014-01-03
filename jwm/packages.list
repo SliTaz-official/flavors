@@ -18,7 +18,6 @@ glib
 glibc-base
 ipxe
 grub4dos-linux
-udevil
 isapnptools
 jpeg
 kbd-base
@@ -30,10 +29,6 @@ libgio
 libpng
 libxml2
 linux
-locale-de
-locale-es
-locale-fr
-locale-pt_BR
 lzlib
 lzma
 nano
@@ -50,9 +45,11 @@ rp-pppoe
 slim
 slitaz-base-files
 slitaz-boot-scripts
+slitaz-configs
 slitaz-doc
 slitaz-polar-cursors
 slitaz-tools
+slitaz-icon
 sqlite
 startup-notification
 sysfsutils
@@ -61,6 +58,7 @@ syslinux-extra
 tazlito
 tazpkg
 tazusb
+tazinst
 tiff
 ttf-dejavu
 udev
@@ -97,6 +95,6 @@ xorg-xf86-video-vesa
 xorg-xsetroot
 xterm
 zlib
-tazinst
 jwm
-slitaz-configs
+openssl
+dillo
