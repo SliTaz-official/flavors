@@ -1,0 +1,11 @@
+# SliTaz flavor receipt.
+
+FLAVOR="e17"
+SHORT_DESC="When SliTaz meets Enlightenment (E17)"
+VERSION="20140102"
+MAINTAINER="pankso@slitaz.org"
+
+FRUGAL_RAM="256M"
+ROOTFS_SIZE="100.4M"
+INITRAMFS_SIZE="26.3M"
+ISO_SIZE="31.0M"
