@@ -18,7 +18,6 @@ glib
 glibc-base
 ipxe
 grub4dos-linux
-udevil
 isapnptools
 jpeg
 kbd-base
