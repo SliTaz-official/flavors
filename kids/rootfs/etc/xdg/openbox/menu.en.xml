@@ -26,13 +26,13 @@
     <action name="Execute"><command>alsaplayer ~/Music</command></action>
   </item>
   <item label="Create a document">
-    <action name="Execute"><command>abiword</command></action>
+    <action name="Execute"><command>xournal</command></action>
   </item>
   <item label="Images slideshow">
     <action name="Execute"><command>gqview -t -s ~/Images</command></action>
   </item>
   <item label="Manage your files">
-    <action name="Execute"><command>pcmanfm</command></action>
+    <action name="Execute"><command>spacefm</command></action>
   </item>
   <separator />
   <menu id="admin-menu" />
