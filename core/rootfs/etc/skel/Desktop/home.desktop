@@ -1,7 +1,0 @@
-#!/usr/bin/env xdg-open
-[Desktop Entry]
-Name=Home
-Name[fr]=Maison
-Exec=spacefm -w -n ~
-Icon=user-home
-Type=Application
