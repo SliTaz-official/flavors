@@ -77,9 +77,8 @@ desktop-file-utils
 hicolor-icon-theme
 firmware-rt2x00
 openbox
+gtk+
 lxde
-udevil
-spacefm
 midori
 alsa-utils
 alsaplayer
@@ -95,3 +94,5 @@ gcolor2
 mtpaint
 sakura
 gparted
+pcmanfm
+gvfs

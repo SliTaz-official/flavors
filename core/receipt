@@ -2,10 +2,10 @@
 
 FLAVOR="core"
 SHORT_DESC="Core system with a fully featured desktop."
-VERSION="20140103"
+VERSION="20140412"
 MAINTAINER="pankso@slitaz.org"
 
 FRUGAL_RAM="256M"
 ROOTFS_SIZE="139.6M"
 INITRAMFS_SIZE="33.9M"
-ISO_SIZE="38.0M"
+ISO_SIZE="40.0M"
