@@ -70,5 +70,5 @@ clearlooks
 desktop-file-utils
 openbox
 lxde
-udevil
-spacefm
+pcmanfm
+gvfs

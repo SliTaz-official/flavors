@@ -62,8 +62,6 @@ zlib
 xorg-xsetroot
 openbox
 clearlooks
-spacefm
-udevil
 imlib2
 wbar2
 tint2
@@ -79,3 +77,5 @@ python-pygame
 libsdl
 childsplay
 tuxmath
+pcmanfm
+gvfs

@@ -22,7 +22,6 @@ ipxe
 grub4dos-linux
 gtk+
 gtkdialog
-udevil
 hardinfo
 hicolor-icon-theme
 isapnptools
@@ -56,7 +55,6 @@ obconf
 openbox
 pango
 pciutils
-spacefm
 pcmciautils
 pcre
 pixman
@@ -153,3 +151,5 @@ beaver
 lua
 epdfview
 tazinst
+pcmanfm
+gvfs

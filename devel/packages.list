@@ -38,7 +38,6 @@ ipxe
 grub4dos-linux
 gtk+
 gtkdialog
-udevil
 hardinfo
 hicolor-icon-theme
 isapnptools
@@ -106,7 +105,6 @@ openbox
 pango
 parted
 pciutils
-spacefm
 pcmciautils
 pcre
 pixman
@@ -212,3 +210,5 @@ gettext
 vim
 tazinst
 tazinst-gui
+pcmanfm
+gvfs

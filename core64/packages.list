@@ -45,7 +45,6 @@ grub4dos-linux
 gtk+
 gtkdialog
 gtkmm
-udevil
 hardinfo
 hicolor-icon-theme
 isapnptools
@@ -117,7 +116,6 @@ pangomm
 parcellite
 parted
 pciutils
-spacefm
 pcmciautils
 pcre
 pixman
@@ -210,3 +208,5 @@ zlib
 sakura
 tazinst
 tazinst-gui
+pcmanfm
+gvfs
