@@ -1,3 +1,8 @@
+linux64
+linux64-crypto
+linux64-firmware
+linux64-sound
+linux64-wireless
 915resolution
 acl
 alsa-lib
@@ -83,11 +88,6 @@ libwebkit
 libxcb
 libxml2
 libxslt
-linux64
-linux64-crypto
-linux64-firmware
-linux64-sound
-linux64-wireless
 locale-de
 locale-es
 locale-fr
