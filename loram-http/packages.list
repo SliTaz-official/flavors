@@ -151,4 +151,6 @@ epdfview
 tazinst
 pcmanfm
 gvfs
+gvfs-fuse
+gvfs-udisks2
 udisks2

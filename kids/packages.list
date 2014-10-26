@@ -79,4 +79,6 @@ childsplay
 tuxmath
 pcmanfm
 gvfs
+gvfs-fuse
+gvfs-udisks2
 udisks2

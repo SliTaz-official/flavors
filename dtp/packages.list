@@ -210,8 +210,10 @@ xorg-xkeyboard-config
 xterm
 yad
 zlib
-tazinst 
+tazinst
 tazinst-gui
 pcmanfm
 gvfs
+gvfs-fuse
+gvfs-udisks2
 udisks2
