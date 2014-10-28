@@ -18,6 +18,7 @@ clearlooks
 cookutils
 dbus
 dbus-glib
+dbus-helper
 desktop-file-utils
 dialog
 dropbear

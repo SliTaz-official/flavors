@@ -5,6 +5,7 @@ cdrkit
 cookutils
 dbus
 dbus-glib
+dbus-helper
 dialog
 dropbear
 e2fsprogs

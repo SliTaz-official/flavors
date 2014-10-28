@@ -7,6 +7,7 @@ clearlooks
 cromfs-or-squashfs
 dbus
 dbus-glib
+dbus-helper
 dialog
 dropbear
 e2fsprogs

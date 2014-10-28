@@ -6,6 +6,7 @@ cdrkit
 clearlooks
 dbus
 dbus-glib
+dbus-helper
 dialog
 dropbear
 e2fsprogs
