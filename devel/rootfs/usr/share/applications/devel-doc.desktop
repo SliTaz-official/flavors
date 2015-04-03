@@ -1,6 +1,6 @@
 [Desktop Entry]
+Type=Application
 Name=Developers Help
 Exec=browser file:///usr/share/doc/slitaz/devel.html
-Icon=slitaz-doc.png
-Type=Application
+Icon=slitaz-doc
 Categories=Documentation;

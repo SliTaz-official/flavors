@@ -1,5 +1,5 @@
 [Desktop Entry]
+Type=Application
 Name=README
 Exec=browser file:///usr/share/doc/slitaz/devel.html
-Icon=slitaz-doc.png
-Type=Application
+Icon=slitaz-doc

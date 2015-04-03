@@ -1,5 +1,5 @@
 [Desktop Entry]
+Type=Application
 Name=Documentation
 Exec=GtkLauncher file:///usr/share/doc/slitaz/index.html
-Icon=slitaz-doc.png
-Type=Application
+Icon=slitaz-doc
