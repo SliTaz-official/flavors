@@ -73,7 +73,9 @@ xorg-xf86-video-fbdev
 xorg-xf86-video-vesa
 xterm
 zlib
-clearlooks
+gtk-clearlooks
+clearlooks-colors
+clearlooks-compact
 desktop-file-utils
 hicolor-icon-theme
 firmware-rt2x00
