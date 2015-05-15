@@ -38,6 +38,7 @@ popt
 posixovl
 ppp
 rp-pppoe
+tazweb
 slim
 slitaz-base-files
 slitaz-boot-scripts
@@ -58,7 +59,6 @@ tazlito
 tazpanel
 tazpkg
 tazusb
-tazweb
 tazwikiss
 tiff
 ttf-dejavu
