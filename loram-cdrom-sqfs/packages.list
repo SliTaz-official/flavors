@@ -39,6 +39,7 @@ linux
 linux-wireless
 linux-sound
 linux-squashfs
+locale-en
 locale-de
 locale-es
 locale-fr

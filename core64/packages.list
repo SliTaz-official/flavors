@@ -89,6 +89,7 @@ libwebkit
 libxcb
 libxml2
 libxslt
+locale-en
 locale-de
 locale-es
 locale-fr

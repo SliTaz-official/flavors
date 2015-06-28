@@ -38,6 +38,7 @@ libxml2
 linux
 linux-wireless
 linux-sound
+locale-en
 locale-de
 locale-es
 locale-fr

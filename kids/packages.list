@@ -19,6 +19,7 @@ isapnptools
 jpeg
 kbd-base
 linux
+locale-en
 locale-de
 locale-es
 locale-fr

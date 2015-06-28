@@ -21,6 +21,7 @@ kbd-base
 linux-firmware
 linux-sound
 linux-wireless
+locale-en
 locale-de
 locale-es
 locale-fr
