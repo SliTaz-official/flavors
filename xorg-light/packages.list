@@ -28,6 +28,7 @@ enchant
 epdfview
 expat
 firmware-rt2x00
+firmware-rtlwifi
 fontconfig
 freetype
 fuse

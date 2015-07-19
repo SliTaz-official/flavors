@@ -80,6 +80,7 @@ clearlooks-compact
 desktop-file-utils
 hicolor-icon-theme
 firmware-rt2x00
+firmware-rtlwifi
 openbox
 gtk+
 lxde
