@@ -5,7 +5,7 @@ html { min-height: 102%; }
 body {
 	background: #eee;
 	color: #222;
-	font: 16px sans-serif, Vernada, Arial;
+	font: 16px Verdana, Arial, sans-serif;
 	margin: 0;
 	min-width: 640px;
 }
