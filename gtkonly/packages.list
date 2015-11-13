@@ -69,7 +69,10 @@ xorg-xf86-video-vesa
 xterm
 zlib
 gtk-clearlooks
+clearlooks-colors
+clearlooks-compact
 desktop-file-utils
+hicolor-icon-theme
 openbox
 lxde
 pcmanfm
