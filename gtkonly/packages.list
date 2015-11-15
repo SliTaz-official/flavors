@@ -1,4 +1,5 @@
 915resolution
+desktop-file-utils
 busybox
 cairo
 cdrkit
@@ -71,7 +72,6 @@ zlib
 gtk-clearlooks
 clearlooks-colors
 clearlooks-compact
-desktop-file-utils
 hicolor-icon-theme
 openbox
 lxde
