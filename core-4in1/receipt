@@ -4,7 +4,7 @@ FLAVOR="core-4in1"
 SHORT_DESC="SliTaz core system with core-basic, justx and base alternatives"
 VERSION="20120301"
 MAINTAINER="pascal.bellard@slitaz.org"
-ROOTFS_SELECTION="192M core 160M gtkonly 100M justx 48M base"
+ROOTFS_SELECTION="256M core 192M gtkonly 128M justx 48M base"
 
 FRUGAL_RAM="48M"
 ROOTFS_SIZE="152.4M"
