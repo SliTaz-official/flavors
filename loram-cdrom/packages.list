@@ -34,6 +34,7 @@ libcomerr
 libgio
 libglade
 libpng
+libwebkit-video
 libxml2
 linux
 linux-wireless
@@ -133,7 +134,7 @@ ntfs-3g
 ntfsprogs
 web-applications
 libgsf
-midori
+midori-video
 viewnior
 sudoku
 desktop-file-utils

@@ -19,6 +19,7 @@ ipxe
 isapnptools
 jpeg
 kbd-base
+libwebkit-video
 linux
 linux-firmware
 linux-sound
@@ -84,7 +85,7 @@ firmware-rtlwifi
 openbox
 gtk+
 lxde
-midori
+midori-video
 alsa-utils
 alsaplayer
 asunder

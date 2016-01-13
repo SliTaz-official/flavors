@@ -86,7 +86,7 @@ libunique
 libusb
 libusb-compat
 libvorbis
-libwebkit
+libwebkit-video
 libxcb
 libxml2
 libxslt
@@ -103,7 +103,7 @@ lzlib
 lzma
 menu-cache
 mhwaveedit
-midori
+midori-video
 mtpaint
 nano
 nanochess
