@@ -2,7 +2,7 @@
 
 FLAVOR="dtp"
 SHORT_DESC="SliTaz Desktop Publishing"
-VERSION="20120216"
+VERSION="20150719"
 MAINTAINER="pascal.bellard@slitaz.org"
 COMPRESSION="gzip"
 

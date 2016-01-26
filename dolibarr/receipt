@@ -2,7 +2,7 @@
 
 FLAVOR="dolibarr"
 SHORT_DESC="Dolibarr GRC/CRM Live"
-VERSION="20120305"
+VERSION="20150719"
 MAINTAINER="erjo@slitaz.org"
 
 FRUGAL_RAM="160M"

@@ -2,7 +2,7 @@
 
 FLAVOR="e17"
 SHORT_DESC="When SliTaz meets Enlightenment (E17)"
-VERSION="20140102"
+VERSION="20150628"
 MAINTAINER="pankso@slitaz.org"
 
 FRUGAL_RAM="256M"

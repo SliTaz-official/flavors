@@ -2,7 +2,7 @@
 
 FLAVOR="kids"
 SHORT_DESC="SliTaz desktop for kids"
-VERSION="20140103"
+VERSION="20150628"
 MAINTAINER="pankso@slitaz.org"
 COMPRESSION="gzip"
 

@@ -2,7 +2,7 @@
 
 FLAVOR="base"
 SHORT_DESC="Minimal set of packages to boot"
-VERSION="20140103"
+VERSION="20150410"
 MAINTAINER="pankso@slitaz.org"
 
 FRUGAL_RAM="48M"

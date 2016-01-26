@@ -2,6 +2,6 @@
 
 FLAVOR="proxy"
 SHORT_DESC="Content Web filtering server"
-VERSION="1.0"
+VERSION="20150719"
 MAINTAINER="erjo@slitaz.org"
 

@@ -2,7 +2,7 @@
 
 FLAVOR="devel"
 SHORT_DESC="Developers and contributors flavors with Mercurial, PHP, and more"
-VERSION="20120222"
+VERSION="20150719"
 MAINTAINER="pankso@slitaz.org"
 
 FRUGAL_RAM="160M"

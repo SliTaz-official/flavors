@@ -2,7 +2,7 @@
 
 FLAVOR="gtkonly"
 SHORT_DESC="Clean and pure desktop with GTK file manager and panel"
-VERSION="20140103"
+VERSION="20151116"
 MAINTAINER="pascal.bellard@slitaz.org"
 
 FRUGAL_RAM="256M"

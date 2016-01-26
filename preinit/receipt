@@ -1,5 +1,10 @@
+# SliTaz flavor receipt.
+
 FLAVOR="preinit"
 SHORT_DESC="Prepare the system to mount an unusual root filesystem"
+VERSION="20141116"
+MAINTAINER="pascal.bellard@slitaz.org"
+
 FRUGAL_RAM="32M"
 ROOTFS_SIZE="15.5M"
 INITRAMFS_SIZE="5.3M"

@@ -2,7 +2,7 @@
 
 FLAVOR="jwm"
 SHORT_DESC="Fast desktop powered by JWM"
-VERSION="20140103"
+VERSION="20150628"
 MAINTAINER="pankso@slitaz.org"
 
 FRUGAL_RAM="196M"

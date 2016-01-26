@@ -2,7 +2,7 @@
 
 FLAVOR="justx"
 SHORT_DESC="Very small desktop with X only"
-VERSION="20140103"
+VERSION="20150628"
 MAINTAINER="pankso@slitaz.org"
 
 FRUGAL_RAM="128M"

@@ -2,7 +2,7 @@
 
 FLAVOR="firefox"
 SHORT_DESC="Small desktop Mozilla Firefox."
-VERSION="20110328"
+VERSION="20150619"
 MAINTAINER="pankso@slitaz.org"
 
 FRUGAL_RAM="192M"
