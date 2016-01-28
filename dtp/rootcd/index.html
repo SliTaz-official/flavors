@@ -4,30 +4,48 @@
 	<meta charset="UTF-8">
 	<title>SliTaz GNU/Linux - CD</title>
 	<meta name="author" content="Christophe Lincoln">
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<style>
+body{min-width:460px;margin:0;background:#CCC;color:#222;font-family:sans-serif;}
+a{text-decoration:none;}a:hover{text-decoration:underline;}
+
+header{top:0;height:40px;background:#351A0A;border-bottom:8px solid #D66018;z-index:2;}
+h1{margin:0;padding:5px 0 0 8px;white-space:nowrap;color:#FFF;font-size:26px;font-style:italic;}
+nav{display:inline-block;float:right;padding:12px 5px 0;font-size:smaller;}
+nav a{padding:6px;color:#FFF;}
+
+main{display:block;position:relative;margin:48px 0 0;padding:1ex;background:#EEE;margin-bottom:120px;z-index:1;}
+header,main{box-shadow:0 4px 8px #888;}
+h2{color:#444;font-size:160%;}
+section{background:#FFF;border:1px solid #BBB;border-radius:0.5ex;padding:1ex;}
+h2,section{max-width:640px;margin:1ex auto;}
+h3{color:#666;font-size:140%;margin:0;}
+p{margin:1ex 0 0;text-align:justify;}
+
+footer{bottom:0;z-index:0;padding:30px;text-align:center;}
+footer a{color:inherit;padding:0 2px;}
+
+header,footer,main{display:block;left:0;right:0;}
+header,footer{position:fixed;}
+	</style>
 </head>
 <body>
 
-<!-- Header -->
-<div id="header">
-	<div id="network">
+<header>
+	<nav>
 		<a href="http://www.slitaz.org/">Website</a>
 		<a href="http://scn.slitaz.org/?blog">Blog</a>
 		<a href="http://doc.slitaz.org/">Doc</a>
 		<a href="http://forum.slitaz.org/">Forum</a>
 		<a href="http://bugs.slitaz.org/">Bugs</a>
 		<a href="http://hg.slitaz.org/">Hg</a>
-	</div>
+	</nav>
 	<h1>SliTaz Live</h1>
-</div>
+</header>
 
-<!-- Block -->
-<div id="block"></div>
+<main>
+<h2>Live CD information</h2>
 
-<!-- Content -->
-<div id="content">
-<h2>LiveCD information</h2>
-
+<section>
 <h3>English</h3>
 <p>
 	Welcome to the SliTaz GNU/Linux CD‑ROM. To boot SliTaz from a CD‑ROM
@@ -44,7 +62,9 @@
 	On the system you will find documentation in /usr/share/doc and the
 	full <a href="README">GPL license</a> in /usr/share/licenses.
 </p>
+</section>
 
+<section>
 <h3>Français</h3>
 <p>
 	Bienvenue sur la page d'index d'un cdrom de SliTaz GNU/Linux. 
@@ -60,7 +80,9 @@
 	paquets et la compilation de nouvelles applications depuis les
 	sources.
 </p>
+</section>
 
+<section>
 <h3>По-русски</h3>
 <p>
 	Добро пожаловать! Это диск дистрибутива SliTaz GNU/Linux.
@@ -77,22 +99,19 @@
 	Загрузив SliTaz, вы найдете документацию в /usr/share/doc и полный текст
 	<a href="README">лицензии GPL</a> в /usr/share/licenses.
 </p>
+</section>
 
-<!-- End content -->
-</div>
+</main>
 
-<!-- Footer -->
-<div id="footer">
-	Copyright © 2016 <a href="http://www.slitaz.org/">SliTaz</a>
-	<p>
-		SliTaz @
-		<a href="https://twitter.com/slitaz">Twitter</a>
-		<a href="https://www.facebook.com/slitaz">Facebook</a>
-		<a href="http://distrowatch.com/table.php?distribution=slitaz">Distrowatch</a>
-		<a href="https://en.wikipedia.org/wiki/SliTaz_GNU/Linux">Wikipedia</a>
+<footer>
+	Copyright © 2016 <a href="http://www.slitaz.org/">SliTaz</a><br><br>
+	SliTaz @
+		<a href="https://twitter.com/slitaz">Twitter</a> ·
+		<a href="https://www.facebook.com/slitaz">Facebook</a> ·
+		<a href="http://distrowatch.com/table.php?distribution=slitaz">Distrowatch</a> ·
+		<a href="https://en.wikipedia.org/wiki/SliTaz_GNU/Linux">Wikipedia</a>·
 		<a href="https://flattr.com/profile/slitaz">Flattr</a>
-	</p>
-</div>
+</footer>
 
 </body>
 </html>
