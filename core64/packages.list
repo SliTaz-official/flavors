@@ -50,6 +50,9 @@ gparted
 ipxe
 grub4dos-linux
 gtk+
+gtk-clearlooks
+clearlooks-colors
+clearlooks-compact
 gtkdialog
 gtkmm
 hardinfo
@@ -137,7 +140,7 @@ slitaz-boot-scripts
 slitaz-configs
 slitaz-configs-base
 slitaz-doc
-slitaz-icon
+slitaz-icons-faenza-dark
 slitaz-menus
 slitaz-polar-cursors
 slitaz-tools
@@ -216,3 +219,5 @@ gvfs
 gvfs-fuse
 gvfs-udisks2
 udisks2
+terminus-font-base
+openssl
