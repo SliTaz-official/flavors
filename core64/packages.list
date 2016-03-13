@@ -220,3 +220,4 @@ gvfs-udisks2
 udisks2
 terminus-font-base
 openssl
+mate-notification-daemon
