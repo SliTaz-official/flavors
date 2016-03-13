@@ -76,7 +76,6 @@ libsoup
 libsqlite
 libssl
 libtasn1
-libtaz
 libunique
 libusb
 libusb-compat
@@ -157,9 +156,9 @@ tiff
 transset-df
 ttf-dejavu
 udev
-util-linux-ng-blkid
-util-linux-ng-getopt
-util-linux-ng-uuid
+util-linux-blkid
+util-linux-getopt
+util-linux-uuid
 viewnior
 web-applications
 wireless_tools

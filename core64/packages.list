@@ -1,6 +1,6 @@
 linux64
 linux64-crypto
-linux64-firmware
+linux-firmware
 linux64-sound
 linux64-wireless
 915resolution
@@ -84,7 +84,6 @@ libsoup
 libsqlite
 libssl
 libtasn1
-libtaz
 libunique
 libusb
 libusb-compat
@@ -161,9 +160,9 @@ tiff
 transmission
 transset-df
 ttf-dejavu
-util-linux-ng-blkid
-util-linux-ng-getopt
-util-linux-ng-uuid
+util-linux-blkid
+util-linux-getopt
+util-linux-uuid
 viewnior
 web-applications
 wireless_tools
