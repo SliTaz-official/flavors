@@ -26,7 +26,7 @@ e2fsprogs
 enchant
 epdfview
 expat
-firefox
+firefox-official
 firmware-rt2x00
 firmware-rtlwifi
 fontconfig
@@ -94,6 +94,7 @@ locale-de
 locale-es
 locale-fr
 locale-pt_BR
+locale-ru
 lostirc
 lua
 lxappearance
