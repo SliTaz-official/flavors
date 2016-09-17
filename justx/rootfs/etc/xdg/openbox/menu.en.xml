@@ -11,7 +11,10 @@
     <action name="Execute"><command>terminal -e nano</command></action>
   </item>
   <item label="Packages Manager">
-    <action name="Execute"><command>terminal -e "tazpkg shell"</command></action>
+    <action name="Execute"><command>terminal -e "sudo tazpkg shell"</command></action>
+  </item>
+  <item label="tazx">
+    <action name="Execute"><command>terminal -e "tazx"</command></action>
   </item>
   <item label="SQLite SQL Engine">
     <action name="Execute"><command>terminal -e sqlite3</command></action>
