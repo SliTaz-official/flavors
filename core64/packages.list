@@ -38,7 +38,6 @@ fontconfig
 freetype
 fuse
 galculator
-gamin
 gcc-lib-base
 gcolor2
 gdk-pixbuf
@@ -53,7 +52,6 @@ gtk+
 gtk-clearlooks
 clearlooks-colors
 clearlooks-compact
-gtkdialog
 gtkmm
 hardinfo
 hicolor-icon-theme
@@ -176,7 +174,6 @@ xorg-libpciaccess
 xorg-libSM
 xorg-libX11
 xorg-libXau
-xorg-libXaw
 xorg-libXcomposite
 xorg-libXcursor
 xorg-libXdamage
