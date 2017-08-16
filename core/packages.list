@@ -24,6 +24,7 @@ linux
 linux-firmware
 linux-sound
 linux-wireless
+linux-input-touchscreen
 locale-en
 locale-de
 locale-es

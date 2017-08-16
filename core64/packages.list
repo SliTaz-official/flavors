@@ -3,6 +3,7 @@ linux64-crypto
 linux-firmware
 linux64-sound
 linux64-wireless
+linux64-input-touchscreen
 915resolution
 acl
 alsa-lib
