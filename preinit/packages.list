@@ -4,6 +4,7 @@ slitaz-boot-scripts
 linux
 syslinux
 linux-md
+linux-cloop
 linux-crypto
 linux-hfsplus
 linux-squashfs
@@ -19,6 +20,7 @@ ntfs-3g
 posixovl
 linux64
 linux64-md
+linux64-cloop
 linux64-crypto
 linux64-hfsplus
 linux64-squashfs

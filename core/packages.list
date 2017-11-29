@@ -25,6 +25,7 @@ linux-firmware
 linux-sound
 linux-wireless
 linux-input-touchscreen
+linux-hfsplus
 locale-en
 locale-de
 locale-es

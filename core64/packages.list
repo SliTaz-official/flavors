@@ -4,6 +4,7 @@ linux-firmware
 linux64-sound
 linux64-wireless
 linux64-input-touchscreen
+linux64-hfsplus
 915resolution
 acl
 alsa-lib
