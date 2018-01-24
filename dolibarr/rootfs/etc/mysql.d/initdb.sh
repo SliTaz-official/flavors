@@ -2,7 +2,7 @@
 #
 # dolibarr.sh, Configuration et installation de Dolibarr.
 #
-# (C) 2007-2015 SliTaz - GNU General Public License v3.
+# (C) 2007-2018 SliTaz - GNU General Public License v3.
 #
 # Author : Eric Joseph-Alexandre <erjo@slitaz.org>
 
