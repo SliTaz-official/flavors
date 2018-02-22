@@ -1,0 +1,12 @@
+# SliTaz flavor receipt.
+
+FLAVOR="core-5in1"
+SHORT_DESC="SliTaz 32/64 bits core system with gtkonly, justx and base alternatives"
+VERSION="20180222"
+MAINTAINER="pascal.bellard@slitaz.org"
+ROOTFS_SELECTION="320M core64 256M core 192M gtkonly 128M justx 48M base"
+
+FRUGAL_RAM="48M"
+ROOTFS_SIZE="169.8M"
+INITRAMFS_SIZE="43.6M"
+ISO_SIZE="48.0M"

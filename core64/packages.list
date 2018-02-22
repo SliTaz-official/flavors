@@ -1,5 +1,4 @@
 linux64
-linux64-crypto
 linux-firmware
 linux64-sound
 linux64-wireless
@@ -22,7 +21,6 @@ cairo
 cairomm
 cdparanoia-III
 cdrkit
-clearlooks
 cookutils
 dbus
 dbus-glib
@@ -55,10 +53,8 @@ gtk-clearlooks
 clearlooks-colors
 clearlooks-compact
 gtkmm
-hardinfo
 hicolor-icon-theme
 isapnptools
-isomaster
 jpeg
 kbd-base
 lcms
@@ -78,15 +74,12 @@ libmad
 libnotify
 libogg
 libpng
-libsexy
 libsigc++
 libsoup
 libsqlite
 libssl
 libtasn1
 libunique
-libusb
-libusb-compat
 libvorbis
 libwebkit-video
 libxcb
@@ -99,8 +92,6 @@ locale-fr
 locale-it
 locale-pt_BR
 locale-ru
-lostirc
-lua
 lxde
 lzlib
 lzma
@@ -119,7 +110,6 @@ obconf
 openbox
 pango
 pangomm
-parcellite
 parted
 pcmciautils
 pcre
@@ -128,8 +118,6 @@ poppler
 popt
 posixovl
 ppp
-readline
-retawq
 rp-pppoe
 tazweb
 shared-mime-info
@@ -155,15 +143,14 @@ tazlito
 tazpanel
 tazpkg
 tazusb
+tazirc
 tazwikiss
 tiff
-transmission
 transset-df
 ttf-dejavu
 util-linux-blkid
 util-linux-getopt
 util-linux-uuid
-viewnior
 web-applications
 wireless_tools
 wpa_supplicant
@@ -195,7 +182,6 @@ xorg-libXss
 xorg-libXt
 xorg-libXtst
 xorg-libXxf86vm
-xorg-rgb
 xorg-server
 xorg-setxkbmap
 xorg-xauth
@@ -207,7 +193,6 @@ xorg-xf86-video-vesa
 xorg-xkbcomp
 xorg-xkeyboard-config
 xterm
-yad
 zlib
 sakura
 tazinst

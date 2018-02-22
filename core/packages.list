@@ -30,11 +30,13 @@ locale-en
 locale-de
 locale-es
 locale-fr
+locale-it
 locale-pt_BR
 locale-ru
 lzma
 nano
 ntfs-3g
+ntfsprogs
 pango
 pcmciautils
 pcre
