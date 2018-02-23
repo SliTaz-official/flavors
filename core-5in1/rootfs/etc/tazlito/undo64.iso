@@ -1,2 +1,4 @@
 mv $1/boot/rootfs1.gz $1/boot/rootfs1.gz64
 cpio -o -H newc < /dev/null | lzma e $1/boot/rootfs1.gz -si
+sed -i 's|\([2-9]\.gz\) |\1,/boot/rootfs1.gz |' $1/boot/isolinux/isolinux.cfg
+sed -i 's/MENU LABEL.*core64.*/MENU HIDE/' $1/boot/isolinux/isolinux.cfg
