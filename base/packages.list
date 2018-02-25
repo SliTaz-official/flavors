@@ -11,6 +11,7 @@ isapnptools
 kbd-base
 linux
 lzma
+memtest
 pcmciautils
 posixovl
 ppp
