@@ -9,6 +9,7 @@ linux-crypto
 linux-hfsplus
 linux-squashfs
 intel-microcode
+amd-microcode
 cryptsetup
 hashalot
 dmsetup
