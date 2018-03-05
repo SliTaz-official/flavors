@@ -8,6 +8,7 @@ linux-cloop
 linux-crypto
 linux-hfsplus
 linux-squashfs
+intel-microcode
 cryptsetup
 hashalot
 dmsetup
