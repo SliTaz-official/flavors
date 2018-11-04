@@ -20,6 +20,7 @@ squashfs
 aufs
 ntfs-3g
 posixovl
+dislocker
 linux64
 linux64-md
 linux64-cloop
