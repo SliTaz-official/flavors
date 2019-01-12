@@ -8,6 +8,7 @@ linux-cloop
 linux-crypto
 linux-hfsplus
 linux-squashfs
+linux-ecryptfs
 intel-microcode
 amd-microcode
 cryptsetup
@@ -21,9 +22,13 @@ aufs
 ntfs-3g
 posixovl
 dislocker
+keyutils
+ecryptfs-utils
+ecryptfs-simple
 linux64
 linux64-md
 linux64-cloop
 linux64-crypto
 linux64-hfsplus
 linux64-squashfs
+linux64-ecryptfs
