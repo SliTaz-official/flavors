@@ -87,6 +87,7 @@ clearlooks-colors
 clearlooks-compact
 hicolor-icon-theme
 firmware-rt2x00
+firmware-radeon
 firmware-rtlwifi
 openbox
 gtk+
