@@ -1,3 +1,4 @@
+linux64
 busybox
 cdrkit
 cookutils
@@ -9,7 +10,6 @@ grub4dos-linux
 ipxe
 isapnptools
 kbd-base
-linux64
 lzma
 memtest
 pcmciautils

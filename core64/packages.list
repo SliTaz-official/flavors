@@ -1,3 +1,4 @@
+linux64
 915resolution
 alsaplayer
 alsa-utils
@@ -40,7 +41,6 @@ jpeg
 kbd-base
 libwebkit-video
 linux-firmware
-linux64
 linux64-hfsplus
 linux64-input-touchscreen
 linux64-sound

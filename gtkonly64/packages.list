@@ -1,3 +1,4 @@
+linux64
 915resolution
 desktop-file-utils
 busybox
@@ -19,7 +20,6 @@ ipxe
 isapnptools
 jpeg
 kbd-base
-linux64
 linux-firmware
 linux64-sound
 linux64-wireless

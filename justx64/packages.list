@@ -1,3 +1,4 @@
+linux64
 915resolution
 busybox
 cairo
@@ -18,7 +19,6 @@ ipxe
 isapnptools
 jpeg
 kbd-base
-linux64
 locale-en
 locale-de
 locale-es
