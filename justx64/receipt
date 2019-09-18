@@ -1,0 +1,11 @@
+# SliTaz flavor receipt.
+
+FLAVOR="justx64"
+SHORT_DESC="Very small desktop with X only"
+VERSION="20150628"
+MAINTAINER="pankso@slitaz.org"
+
+FRUGAL_RAM="128M"
+ROOTFS_SIZE="62.8M"
+INITRAMFS_SIZE="17.6M"
+ISO_SIZE="22.0M"

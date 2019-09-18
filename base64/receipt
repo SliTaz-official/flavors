@@ -1,0 +1,11 @@
+# SliTaz flavor receipt.
+
+FLAVOR="base64"
+SHORT_DESC="Minimal set of packages to boot"
+VERSION="20150410"
+MAINTAINER="pankso@slitaz.org"
+
+FRUGAL_RAM="48M"
+ROOTFS_SIZE="23.3M"
+INITRAMFS_SIZE="8.3M"
+ISO_SIZE="12.0M"
