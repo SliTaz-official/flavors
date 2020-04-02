@@ -45,6 +45,7 @@ linux-hfsplus
 linux-input-touchscreen
 linux-sound
 linux-wireless
+linux-zram
 locale-de
 locale-en
 locale-es

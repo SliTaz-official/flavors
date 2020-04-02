@@ -45,6 +45,7 @@ linux64-hfsplus
 linux64-input-touchscreen
 linux64-sound
 linux64-wireless
+linux64-zram
 locale-de
 locale-en
 locale-es
