@@ -43,6 +43,7 @@ libwebkit-video
 linux-firmware
 linux64-hfsplus
 linux64-input-touchscreen
+linux64-mmc
 linux64-sound
 linux64-wireless
 linux64-zram
@@ -71,6 +72,7 @@ pcmanfm
 pcmciautils
 pcre
 pixman
+plop
 popt
 posixovl
 ppp

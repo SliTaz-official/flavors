@@ -13,6 +13,7 @@ linux
 lzma
 memtest
 pcmciautils
+plop
 posixovl
 ppp
 rp-pppoe

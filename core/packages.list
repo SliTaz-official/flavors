@@ -43,6 +43,7 @@ linux
 linux-firmware
 linux-hfsplus
 linux-input-touchscreen
+linux-mmc
 linux-sound
 linux-wireless
 linux-zram
@@ -71,6 +72,7 @@ pcmanfm
 pcmciautils
 pcre
 pixman
+plop
 popt
 posixovl
 ppp
