@@ -31,7 +31,6 @@ firmware-rt2x00
 firmware-rtlwifi
 fontconfig
 freetype
-fuse
 galculator
 gamin
 gcc-lib-base

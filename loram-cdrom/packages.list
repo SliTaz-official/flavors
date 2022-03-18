@@ -13,7 +13,6 @@ e2fsprogs
 expat
 fontconfig
 freetype
-fuse
 gamin
 gcc-lib-base
 get-wifi-firmware
