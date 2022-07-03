@@ -41,6 +41,7 @@ jpeg
 kbd-base
 libwebkit-video
 linux
+linux-chrome
 linux-firmware
 linux-hfsplus
 linux-input-touchscreen

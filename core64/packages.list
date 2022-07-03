@@ -42,6 +42,7 @@ jpeg
 kbd-base
 libwebkit-video
 linux-firmware
+linux64-chrome
 linux64-hfsplus
 linux64-input-touchscreen
 linux64-mmc
